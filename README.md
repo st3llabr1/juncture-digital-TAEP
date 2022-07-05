@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       title="Edison Notebook NP-122"
+       author="Erin Mustard"
        banner="https://edison.rutgers.edu/templates/sas-red/images/rutgers/red_banner.png" 
        layout="vertical">
 
