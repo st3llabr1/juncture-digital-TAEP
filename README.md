@@ -25,7 +25,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 ## Image
 
 Some of the chemicals mentioned in this notebook include [Camphor Bromide](https://pubchem.ncbi.nlm.nih.gov/compound/Camphor-Bromide) 
-<param ve-image 
+<param ve-graphic 
        label="Glenmont, Edison's Estate" 
        description="photo of Glenmont" 
        license="public domain" 
