@@ -29,7 +29,7 @@ Some of the chemicals mentioned in this notebook include [Camphor Bromide](https
        label="Glenmont, Edison's Estate" 
        description="photo of Glenmont" 
        license="public domain" 
-       url=https://en.wikipedia.org/wiki/Thomas_Edison_National_Historical_Park#/media/File:Edison_home_NJ.jpg">
+       url="https://en.wikipedia.org/wiki/Thomas_Edison_National_Historical_Park#/media/File:Edison_home_NJ.jpg">
 
 ## Image
 
@@ -38,7 +38,7 @@ This notebook dates from ca. April 1919. The pocket notebook contains notes by T
        abel="Glenmont, Edison's Estate" 
        description="photo of Glenmont" 
        license="public domain" 
-       url=https://en.wikipedia.org/wiki/Thomas_Edison_National_Historical_Park#/media/File:Edison_home_NJ.jpg">
+       url="https://en.wikipedia.org/wiki/Thomas_Edison_National_Historical_Park#/media/File:Edison_home_NJ.jpg">
        
 ## Map
 
