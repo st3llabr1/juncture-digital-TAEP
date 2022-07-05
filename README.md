@@ -27,7 +27,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 [Camphor Bromide](https://pubchem.ncbi.nlm.nih.gov/compound/Camphor-Bromide) 
 
 <param ve-image 
-       manifest="https://iiif.archivelab.org/iiif/taepnotebook-NP122$13/manifest.json">
+       manifest="https://iiif.archivelab.org/iiif/taepnotebook-NP122$12/manifest.json">
 <param ve-map center="Q36600" zoom="11">
      
 <param ve-image
