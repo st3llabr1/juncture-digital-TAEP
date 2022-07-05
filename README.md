@@ -24,9 +24,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+This notebook dates from ca. April 1919. The pocket notebook contains notes by Thomas A. Edison relating to experiments on chemicals, Portland cement, phonograph records, storage batteries, resin, shellac and x-rays. There is a list of chemicals for iron experiments and notes about expenses, cement sales and foreign record prices. The notebook was originally found in Thomas A. Edison's desk at Glenmont.[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
