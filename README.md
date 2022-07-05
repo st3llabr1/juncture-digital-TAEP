@@ -44,7 +44,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-This notebook dates from ca. April 1919. The pocket notebook contains notes by Thomas A. Edison relating to experiments on chemicals, Portland cement, phonograph records, storage batteries, resin, shellac and x-rays. There is a list of chemicals for iron experiments and notes about expenses, cement sales and foreign record prices. The notebook was originally found in Thomas A. Edison's desk at Glenmont.
+This notebook dates from ca. April 1919. The pocket notebook contains notes by Thomas A. Edison relating to experiments on chemicals, [Portland cement] (https://en.wikipedia.org/wiki/Portland_cement), phonograph records, storage batteries, resin, shellac and x-rays. There is a list of chemicals for iron experiments and notes about expenses, cement sales and foreign record prices. The notebook was originally found in Thomas A. Edison's desk at Glenmont.
 <param ve-image 
        abel="Glenmont, Edison's Estate" 
        description="photo of Glenmont" 
