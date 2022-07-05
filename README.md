@@ -39,6 +39,7 @@ This notebook dates from ca. April 1919. The pocket notebook contains notes by T
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       
 ## Map
 
 All notebooks in this collection were found at Edison's Glenmont Estate, located in West Orange, New Jersey. It is the current site of [Edison National Historical Park](https://www.nps.gov/edis/index.htm). 
