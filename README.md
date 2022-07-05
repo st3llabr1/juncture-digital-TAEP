@@ -22,9 +22,20 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
-## Image
+## Chemicals in this Notebook
 
-Some of the chemicals mentioned in this notebook include [Camphor Bromide](https://pubchem.ncbi.nlm.nih.gov/compound/Camphor-Bromide) 
+[Camphor Bromide](https://pubchem.ncbi.nlm.nih.gov/compound/Camphor-Bromide) 
+
+<param ve-image 
+       manifest="https://iiif.archivelab.org/iiif/taepnotebook-NP122$13/manifest.json">
+<param ve-map center="Q36600" zoom="11">
+     
+<param ve-image
+       label="Chromium III Bromide" 
+       description="chemical formula of Chromium III Bromide" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Kristallstruktur_Bismut%28III%29-iodid.png">
+       
 <param ve-image
        label="Chromium III Bromide" 
        description="chemical formula of Chromium III Bromide" 
