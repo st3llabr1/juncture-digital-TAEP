@@ -49,7 +49,7 @@ All notebooks in this collection were found at Edison's Glenmont Estate, located
       }
     }
   ]
-}
+}>
 
 ## Multiple viewers
 
