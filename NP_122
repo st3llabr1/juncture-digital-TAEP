@@ -26,19 +26,19 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 Some of the chemicals mentioned in this notebook include [Camphor Bromide](https://pubchem.ncbi.nlm.nih.gov/compound/Camphor-Bromide) 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Glenmont, Edison's Estate" 
+       description="photo of Glenmont" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url=https://en.wikipedia.org/wiki/Thomas_Edison_National_Historical_Park#/media/File:Edison_home_NJ.jpg">
 
 ## Image
 
 This notebook dates from ca. April 1919. The pocket notebook contains notes by Thomas A. Edison relating to experiments on chemicals, Portland cement, phonograph records, storage batteries, resin, shellac and x-rays. There is a list of chemicals for iron experiments and notes about expenses, cement sales and foreign record prices. The notebook was originally found in Thomas A. Edison's desk at Glenmont.
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       abel="Glenmont, Edison's Estate" 
+       description="photo of Glenmont" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url=https://en.wikipedia.org/wiki/Thomas_Edison_National_Historical_Park#/media/File:Edison_home_NJ.jpg">
        
 ## Map
 
