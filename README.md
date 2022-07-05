@@ -25,7 +25,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 ## Image
 
 Some of the chemicals mentioned in this notebook include [Camphor Bromide](https://pubchem.ncbi.nlm.nih.gov/compound/Camphor-Bromide) 
-<param ve-graphic 
+<param ve-image
        label="Glenmont, Edison's Estate" 
        description="photo of Glenmont" 
        license="public domain" 
@@ -51,7 +51,7 @@ All notebooks in this collection were found at Edison's Glenmont Estate, located
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://iiif.archivelab.org/iiif/taepnotebook-NP122$4/manifest.json">
 <param ve-map center="Q36600" zoom="11">
 
 # References
