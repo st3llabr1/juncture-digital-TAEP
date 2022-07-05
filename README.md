@@ -54,8 +54,8 @@ This notebook dates from ca. April 1919. The pocket notebook contains notes by T
 ## Map
 
 All notebooks in this collection were found at Edison's Glenmont Estate, located in West Orange, New Jersey. It is the current site of [Edison National Historical Park](https://www.nps.gov/edis/index.htm). 
-<param ve-entity eid="Q220">
-<param ve-map center="Q220" zoom="10" prefer-geojson>
+<param ve-entity eid="Q932601>
+<param ve-map center="Q932601 zoom="10" prefer-geojson>
 
 ## Multiple viewers
 
