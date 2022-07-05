@@ -24,16 +24,24 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-This notebook dates from ca. April 1919. The pocket notebook contains notes by Thomas A. Edison relating to experiments on chemicals, Portland cement, phonograph records, storage batteries, resin, shellac and x-rays. There is a list of chemicals for iron experiments and notes about expenses, cement sales and foreign record prices. The notebook was originally found in Thomas A. Edison's desk at Glenmont.
+Some of the chemicals mentioned in this notebook include [Camphor Bromide] (https://pubchem.ncbi.nlm.nih.gov/compound/Camphor-Bromide) 
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
+## Image
+
+This notebook dates from ca. April 1919. The pocket notebook contains notes by Thomas A. Edison relating to experiments on chemicals, Portland cement, phonograph records, storage batteries, resin, shellac and x-rays. There is a list of chemicals for iron experiments and notes about expenses, cement sales and foreign record prices. The notebook was originally found in Thomas A. Edison's desk at Glenmont.
+<param ve-image 
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 ## Map
 
-All notebooks in this collection were found at Edison's Glenmont Estate, located in West Orange, New Jersey. It is the current site of <a href= "https://www.nps.gov/edis/index.htm">Edison National Historical Park</a>. 
+All notebooks in this collection were found at Edison's Glenmont Estate, located in West Orange, New Jersey. It is the current site of [Edison National Historical Park] (https://www.nps.gov/edis/index.htm). 
 <param ve-entity eid="Q220">
 <param ve-map center="Q220" zoom="10" prefer-geojson>
 
