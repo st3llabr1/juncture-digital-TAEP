@@ -26,10 +26,10 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 Some of the chemicals mentioned in this notebook include [Camphor Bromide](https://pubchem.ncbi.nlm.nih.gov/compound/Camphor-Bromide) 
 <param ve-image
-       label="Glenmont, Edison's Estate" 
-       description="photo of Glenmont" 
+       label="Chromium III Bromide" 
+       description="chemical formula of Chromium III Bromide" 
        license="public domain" 
-       url="https://en.wikipedia.org/wiki/Thomas_Edison_National_Historical_Park#/media/File:Edison_home_NJ.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/2/2e/Kristallstruktur_Bismut%28III%29-iodid.png">
 
 ## Image
 
