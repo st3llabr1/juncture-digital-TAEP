@@ -1,4 +1,4 @@
-a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="Girl with a Pearl Earring"
@@ -33,10 +33,23 @@ This notebook dates from ca. April 1919. The pocket notebook contains notes by T
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-entity eid="Q220">
-<param ve-map center="Q220" zoom="10" prefer-geojson>
+All notebooks in this collection were found at Edison's Glenmont Estate, located in West Orange, New Jersey. It is the current site of <a href= "https://www.nps.gov/edis/index.htm">Edison National Historical Park</a>. 
+<{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.24054145812988,
+          40.786293014640655
+        ]
+      }
+    }
+  ]
+}
 
 ## Multiple viewers
 
