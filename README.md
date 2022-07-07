@@ -34,8 +34,6 @@ The following sections have been published in the digital edition of the Thomas 
 
 (2) Chapter 11, "Inventive Accomplishments of Members," which discusses Edison's wartime research projects and includes extracts from several of his letters to Secretary of the Navy Josephus Daniels, as well as his letter of November 21, 1917, to Sir Eric Geddes, head of the British Admiralty. 
 
-<param ve-image 
-       manifest="https://edisondigital.rutgers.edu/iiif/X128D164">
 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D167">
@@ -74,16 +72,22 @@ The maps are folded into the book and were only partially scanned by Google. For
 <param ve-graphic url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/Hull_to_Kristiand_map.png">
 
 
-The following is a list contains a list, prepared by Edison's personal assistant William H. Meadowcroft, of 57 wartime research experiments, along with another list of 48 experiments. This is a similar list to the one contained in Chapter 11 of Scott's book. 
+The following is a list prepared by Edison's personal assistant William H. Meadowcroft, of 57 wartime research experiments, along with another list of 48 experiments. This is a similar list to the one contained in Chapter 11 of Scott's book. 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128C00A">
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128C00B">
 
-The links on the page numbers lead to the appropriate page in the Hathi Trust version of Scott's book. Two projects—Sailing Lights for Convoys (pp.175-176) and Steamship Decoys (p.180)—do not have related documents in the Hummel Collection. The links for those projects lead only to the Scott book.
+Below are some examples of Edison's research experiments for the Naval Consultancy Board, mentioned in Scott's book. The links on the page numbers lead to the appropriate page in the Hathi Trust version of Scott's book. Two projects—Sailing Lights for Convoys (pp.175-176) and Steamship Decoys (p.180)—do not have related documents in the Hummel Collection. The links for those projects lead only to the Scott book.
 
 * [Detecting Submarine by Sound from Moving Vessel](https://edisondigital.rutgers.edu/folder/X128C27) [pp.161-164](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=183)
+
+
 * [Quick Turning of Ships Sea Anchor](https://edisondigital.rutgers.edu/folder/X128C44) [pp.164-165](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=186)
+<param ve-image 
+       manifest="https://edisondigital.rutgers.edu/iiif/X128D164">
+
+
 * [Strategic Plans for Saving Cargo Boats from Submarines](https://edisondigital.rutgers.edu/folder/X128C46)[pp.165-170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=187)
 * [Collision Mats](https://edisondigital.rutgers.edu/folder/X128C54)[p.170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
 * [Taking Merchant Ships out of Mined Harbors](https://edisondigital.rutgers.edu/folder/X128C52)[pp.170-171](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
@@ -91,7 +95,7 @@ The links on the page numbers lead to the appropriate page in the Hathi Trust ve
 
 ## Edison, Submarines, and the Phonograph
 
-Edison was responsible for creating technology to identify submarines, but his phonograph discs were also used to help people at home understand the war. This is a recording of a dramatized submarine attack on a US cargo ship.[^1]
+Edison was responsible for many innovations for the war effort, including the home front. This is a recording from an Edison Diamond Disc of a dramatized submarine attack on a US cargo ship.[^1]
 
 <param ve-video id="UP1blMpzrkE" title="Edison Diamond Disc - A Submarine Attack">
 
