@@ -75,8 +75,11 @@ The maps are folded into the book and were only partially scanned by Google. For
 
 
 The following is a list of research projects discussed in Chapter 11. The link on each project description leads to a folder of original documents related to that project in the [Charles Hummel Collection: Edison Wartime Research Reports](https://edisondigital.rutgers.edu/folder/X128C). In cases where there are several folders of original documents pertaining to a project, the link leads to the first folder in the numbered sequence. References to other folders containing documents relevant to a particular project appear in the descriptive notes introducing each folder.
+<param ve-image 
+       manifest="https://edisondigital.rutgers.edu/iiif/X128C00A">
 
 The links on the page numbers lead to the appropriate page in the Hathi Trust version of Scott's book. Two projects—Sailing Lights for Convoys (pp.175-176) and Steamship Decoys (p.180)—do not have related documents in the Hummel Collection. The links for those projects lead only to the Scott book.
+
 * [Detecting Submarine by Sound from Moving Vessel](https://edisondigital.rutgers.edu/folder/X128C27)
 * [Quick Turning of Ships Sea Anchor](https://edisondigital.rutgers.edu/folder/X128C44) 
 * [Strategic Plans for Saving Cargo Boats from Submarines](https://edisondigital.rutgers.edu/folder/X128C46)
