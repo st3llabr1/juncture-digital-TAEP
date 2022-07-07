@@ -9,10 +9,15 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+ <param title="Lloyd N. Scott">
+ <param title="Thomas A. Edison" eid="Q8743" aliases="Edison">
+ <param title="Josephus Daniels" eid="Q103853330" aliases="Daniels">
+ <param title="Frank J. Sprague" eid="Q1343169">
+ <param title="Lawrence Addicks" eid="Q23198594">
+ <param title="Naval Consulting Board" eid="Q17012131">
+ <param title="Sir Eric Geddes" eid="Q959198" aliases="Geddes">
+ <param title="Annapolis" eid="Q28271">
+ <param title="Sandy Hook, New Jersey" eid="Q1028611">
 
 # Lloyd N. Scott's Naval Consulting Board of the United States
 
