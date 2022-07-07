@@ -76,6 +76,9 @@ The following is a list of research projects discussed in Chapter 11. The link o
 The links on the page numbers lead to the appropriate page in the Hathi Trust version of Scott's book. Two projects—Sailing Lights for Convoys (pp.175-176) and Steamship Decoys (p.180)—do not have related documents in the Hummel Collection. The links for those projects lead only to the Scott book.
 
 
+## Edison, Submarines, and the Phonograph
+
+<param ve-iframe:<iframe width="560" height="315" src="https://www.youtube.com/embed/UP1blMpzrkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Map
 
