@@ -74,17 +74,19 @@ The maps are folded into the book and were only partially scanned by Google. For
 <param ve-graphic url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/Hull_to_Kristiand_map.png">
 
 
-The following is a list of research projects discussed in Chapter 11. The link on each project description leads to a folder of original documents related to that project in the [Charles Hummel Collection: Edison Wartime Research Reports](https://edisondigital.rutgers.edu/folder/X128C). In cases where there are several folders of original documents pertaining to a project, the link leads to the first folder in the numbered sequence. References to other folders containing documents relevant to a particular project appear in the descriptive notes introducing each folder.
+The following is a list contains a list, prepared by Edison's personal assistant William H. Meadowcroft, of 57 wartime research experiments, along with another list of 48 experiments. This is a similar list to the one contained in Chapter 11 of Scott's book. 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128C00A">
+<param ve-image 
+       manifest="https://edisondigital.rutgers.edu/iiif/X128C00B">
 
 The links on the page numbers lead to the appropriate page in the Hathi Trust version of Scott's book. Two projects—Sailing Lights for Convoys (pp.175-176) and Steamship Decoys (p.180)—do not have related documents in the Hummel Collection. The links for those projects lead only to the Scott book.
 
-* [Detecting Submarine by Sound from Moving Vessel](https://edisondigital.rutgers.edu/folder/X128C27)
-* [Quick Turning of Ships Sea Anchor](https://edisondigital.rutgers.edu/folder/X128C44) 
-* [Strategic Plans for Saving Cargo Boats from Submarines](https://edisondigital.rutgers.edu/folder/X128C46)
-* [Collision Mats](https://edisondigital.rutgers.edu/folder/X128C54)
-* [Taking Merchant Ships out of Mined Harbors](https://edisondigital.rutgers.edu/folder/X128C52)
+* [Detecting Submarine by Sound from Moving Vessel](https://edisondigital.rutgers.edu/folder/X128C27) [pp.161-164](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=183)
+* [Quick Turning of Ships Sea Anchor](https://edisondigital.rutgers.edu/folder/X128C44) [pp.164-165](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=186)
+* [Strategic Plans for Saving Cargo Boats from Submarines](https://edisondigital.rutgers.edu/folder/X128C46)[pp.165-170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=187)
+* [Collision Mats](https://edisondigital.rutgers.edu/folder/X128C54)[p.170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
+* [Taking Merchant Ships out of Mined Harbors](https://edisondigital.rutgers.edu/folder/X128C52)[pp.170-171](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
 
 
 ## Edison, Submarines, and the Phonograph
