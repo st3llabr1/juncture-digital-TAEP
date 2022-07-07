@@ -83,6 +83,7 @@ Below are some examples of Edison's research experiments for the Naval Consultan
 * [Detecting Submarine by Sound from Moving Vessel](https://edisondigital.rutgers.edu/folder/X128C27) [pp.161-164](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=183)
 
 
+
 * [Quick Turning of Ships Sea Anchor](https://edisondigital.rutgers.edu/folder/X128C44) [pp.164-165](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=186)
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D164">
