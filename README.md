@@ -86,7 +86,10 @@ Edison was responsible for creating technology to identify submarines, but his p
 ## Map
 
 All notebooks in this collection were found at Edison's Glenmont Estate, located in West Orange, New Jersey. It is the current site of [Edison National Historical Park](https://www.nps.gov/edis/index.htm). 
-<param ve-entity eid="QQ932601">
-<param ve-map center="Q932601" zoom="15" prefer-geojson>
+<param ve-entity eid="Q28271">
+<param ve-map center="Q28271" zoom="15" prefer-geojson>
+
+<param ve-entity eid="Q1028611">
+<param ve-map center=Q1028611" zoom="15" prefer-geojson>
 
 # References
