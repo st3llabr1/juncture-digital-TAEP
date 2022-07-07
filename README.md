@@ -22,8 +22,6 @@ The following sections have been published in the digital edition of the Thomas 
 (1) front matter, including title page, table of contents, preface by Josephus Daniels, and photographs of Daniels and the Naval Consulting Board. 
 
 <param ve-image 
-       manifest="https://edisondigital.rutgers.edu/iiif/X128D">
-<param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D005">
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D005$2">
