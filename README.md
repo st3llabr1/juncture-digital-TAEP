@@ -68,7 +68,9 @@ The [minority report](https://edisondigital.rutgers.edu/document/X128D230) signe
 
 Another appendix (not selected) contains thirty oversize maps of shipping routes along the coasts of Europe and North America, prepared by Edison and included in his letter to Geddes.
 
-The maps are folded into the book and were only partially scanned by Google. For an Adobe Acrobat version of the selected pages, [click here](http://edison.rutgers.edu/Scott.pdf).
+<param ve-graphic url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/Hull_to_Kristiand_map.png">
+
+The maps are folded into the book and were only partially scanned by Google. For an Adobe Acrobat version of the selected pages, [click here](http://edison.rutgers.edu/Scott.pdf). For the Google images via the Hathi Trust, [click here](https://babel.hathitrust.org/cgi/pt?id=uc1.$b72010&view=page&seq=343&q1=maps). 
 
 
 The following is a list of research projects discussed in Chapter 11. The link on each project description leads to a folder of original documents related to that project in the [Charles Hummel Collection: Edison Wartime Research Reports](https://edisondigital.rutgers.edu/folder/X128C). In cases where there are several folders of original documents pertaining to a project, the link leads to the first folder in the numbered sequence. References to other folders containing documents relevant to a particular project appear in the descriptive notes introducing each folder.
