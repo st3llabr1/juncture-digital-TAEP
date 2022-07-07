@@ -80,7 +80,7 @@ The links on the page numbers lead to the appropriate page in the Hathi Trust ve
 
 Edison was responsible for creating technology to identify submarines, but his phonograph discs were also used to help people understand how it felt to be attacked by a submarine. This is a recording of a dramatized submarine attack on a US cargo ship.
 
-<param ve-iframe src="<iframe width="560" height="315" src="https://www.youtube.com/embed/UP1blMpzrkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<param ve-video id="UP1blMpzrkE" title="Edison Diamond Disc - A Submarine Attack">
 
 
 ## Map
