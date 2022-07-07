@@ -23,8 +23,6 @@ The following sections have been published in the digital edition of the Thomas 
 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D005">
-<param ve-image 
-       manifest="https://edisondigital.rutgers.edu/iiif/X128D005$2">
 
 (2) Chapter 11, "Inventive Accomplishments of Members," which discusses Edison's wartime research projects and includes extracts from several of his letters to Secretary of the Navy Josephus Daniels, as well as his letter of November 21, 1917, to Sir Eric Geddes, head of the British Admiralty. 
 
