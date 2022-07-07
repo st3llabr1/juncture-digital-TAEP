@@ -78,7 +78,84 @@ The links on the page numbers lead to the appropriate page in the Hathi Trust ve
 
 ## Edison, Submarines, and the Phonograph
 
-Edison was responsible for creating technology to identify submarines, but his phonograph discs were also used to help people understand how it felt to be attacked by a submarine. This is a recording of a dramatized submarine attack on a US cargo ship.
+Edison was responsible for creating technology to identify submarines, but his phonograph discs were also used to help people at home understand the war. This is a recording of a dramatized submarine attack on a US cargo ship.
+Below is a transcript of the recording. 
+___
+
+A jolly bunch of tars are we,
+We love to sail the deep blue sea,
+And sing (and sing, and sing) so merrily (so merrily).
+A sailor's life is so full of joy,
+And all the girlies love sailor boys,
+That's why (that's why) the reason why (the reason why),
+We love to sail the deep blue sea.
+
+All's well! All's well!
+
+Oh, Captain, is the transport in the danger zone yet?
+Yes, but while it's more dangerous right here there's danger everywhere on the sea. But don't worry; you Red Cross girls would be the first to be taken care of.
+Oh, we're not worrying any more than the boys are.
+
+We're on our way across the foam,
+To fight for those we left at home sweet home,
+Are we downhearted? No, no, no!
+We're doggone glad that we can go.
+
+Say, that's a pretty good song.
+But I can sing a better one!
+Who are you?
+My name's Hicky Hank and I used to sing soprani in our village choir!
+Ha...
+Well, go ahead and show the boys up, Hank.
+Well, I'll be darned if I don't!
+
+I'm Hicky Hank, He's Hicky Hank,
+I'm Hicky Hank, He's Hicky Hank,
+I'm glad I left the farm to be an A-One fighting man,
+I'll come back some day in a Captain's cap,
+And I'll take my best gal on my lap,
+Lotsa kisses, make her Mrs.,
+I'm Hicky, Hicky, Hicky Hank! By Heck!
+
+Ha...
+You're all right, Hank. Some singer!
+What does he do aboard?
+Who, Hank? Why he's a gunner.
+
+Periscope, dead ahead
+Pipe all hands to quarters!
+
+A torpedo, Captain, on the starboard bow,
+Take a zigzag course. Full speed ahead.
+Aye, aye, sir.
+(Rumble)
+Gosh we missed it by twenty feet.
+When you get the range, fire!
+Aye, Aye, Sir!
+A little short. Try again!
+Fire yet!
+The u-boat's gone under, we must have hit her.
+She's coming up astern!
+Fire!
+A direct hit.
+She's blown to pieces!
+Yay! ...
+Where's the man that fired that shot?
+Here I be, Captain, I'm the feller, Hicky Hank from old Yaphank.
+Yes, indeed some boy.
+
+We're on our way across the foam,
+To fight for those we left at home sweet home,
+Are we downhearted? No, no, no!
+We're doggone glad that we can go.
+
+A jolly bunch of tars are we,
+We love to sail the deep blue sea,
+And sing (and sing, and sing) so merrily (so merrily).
+A sailor's life is so full of joy,
+And all the girlies love sailor boys,
+That's why (that's why) the reason why (the reason why),
+We love to sail the deep blue sea.
 
 <param ve-video id="UP1blMpzrkE" title="Edison Diamond Disc - A Submarine Attack">
 
