@@ -84,4 +84,4 @@ Edison was responsible for creating technology to identify submarines, but his p
 
 
 # References
-[^1] Edison Diamond Disc https://www.youtube.com/watch?v=UP1blMpzrkE
+[^1]: Edison Diamond Disc https://www.youtube.com/watch?v=UP1blMpzrkE
