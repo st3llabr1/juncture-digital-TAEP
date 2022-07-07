@@ -20,6 +20,7 @@ This official history of the Naval Consulting Board was published by the Governm
 
 The following sections have been published in the digital edition of the Thomas A. Edison Papers: 
 (1) front matter, including title page, table of contents, preface by Josephus Daniels, and photographs of Daniels and the Naval Consulting Board. 
+
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D">
 <param ve-image 
