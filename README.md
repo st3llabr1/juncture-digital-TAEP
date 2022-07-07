@@ -60,11 +60,11 @@ The following sections have been published in the digital edition of the Thomas 
 
 (3) Appendix: Naval Laboratory, which contains the [majority report](https://edisondigital.rutgers.edu/document/X128D225) signed by Frank J. Sprague and Lawrence Addicks recommending Annapolis as the site of the proposed laboratory. 
 <param ve-entity eid="Q28271">
-<param ve-map center="Q28271" zoom="10" prefer-geojson>
+<param ve-map center="Q28271" zoom="12" prefer-geojson>
 
 The [minority report](https://edisondigital.rutgers.edu/document/X128D230) signed by Edison recommending Sandy Hook, New Jersey. 
 <param ve-entity eid="Q1028611">
-<param ve-map center="Q1028611" zoom="10" prefer-geojson>
+<param ve-map center="Q1028611" zoom="12" prefer-geojson>
 
 Another appendix (not selected) contains thirty oversize maps of shipping routes along the coasts of Europe and North America, prepared by Edison and included in his letter to Geddes.
 
