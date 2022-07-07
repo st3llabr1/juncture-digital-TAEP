@@ -60,7 +60,14 @@ Edison also created the first Battleship game.
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D191B">
 
-(3) Appendix: Naval Laboratory, which contains the [majority report](https://edisondigital.rutgers.edu/document/X128D225) signed by Frank J. Sprague and Lawrence Addicks recommending Annapolis as the site of the proposed laboratory and the [minority report](https://edisondigital.rutgers.edu/document/X128D230) signed by Edison recommending Sandy Hook, New Jersey. Another appendix (not selected) contains thirty oversize maps of shipping routes along the coasts of Europe and North America, prepared by Edison and included in his letter to Geddes.
+(3) Appendix: Naval Laboratory, which contains the [majority report](https://edisondigital.rutgers.edu/document/X128D225) signed by Frank J. Sprague and Lawrence Addicks recommending Annapolis as the site of the proposed laboratory. 
+<param ve-map center="Q28271" zoom="15" prefer-geojson>
+
+The [minority report](https://edisondigital.rutgers.edu/document/X128D230) signed by Edison recommending Sandy Hook, New Jersey. 
+<param ve-entity eid="Q1028611">
+<param ve-map center=Q1028611" zoom="15" prefer-geojson>
+
+Another appendix (not selected) contains thirty oversize maps of shipping routes along the coasts of Europe and North America, prepared by Edison and included in his letter to Geddes.
 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D225">
@@ -82,14 +89,5 @@ Edison was responsible for creating technology to identify submarines, but his p
 
 <param ve-video id="UP1blMpzrkE" title="Edison Diamond Disc - A Submarine Attack">
 
-
-## Map
-
-All notebooks in this collection were found at Edison's Glenmont Estate, located in West Orange, New Jersey. It is the current site of [Edison National Historical Park](https://www.nps.gov/edis/index.htm). 
-<param ve-entity eid="Q28271">
-<param ve-map center="Q28271" zoom="15" prefer-geojson>
-
-<param ve-entity eid="Q1028611">
-<param ve-map center=Q1028611" zoom="15" prefer-geojson>
 
 # References
