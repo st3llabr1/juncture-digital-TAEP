@@ -68,12 +68,6 @@ The [minority report](https://edisondigital.rutgers.edu/document/X128D230) signe
 
 Another appendix (not selected) contains thirty oversize maps of shipping routes along the coasts of Europe and North America, prepared by Edison and included in his letter to Geddes.
 
-<param ve-image 
-       manifest="https://edisondigital.rutgers.edu/iiif/X128D225">
-
-<param ve-image 
-       manifest="https://edisondigital.rutgers.edu/iiif/X128D230">
-
 The maps are folded into the book and were only partially scanned by Google. For an Adobe Acrobat version of the selected pages, [click here](http://edison.rutgers.edu/Scott.pdf).
 
 
@@ -84,9 +78,10 @@ The links on the page numbers lead to the appropriate page in the Hathi Trust ve
 
 ## Edison, Submarines, and the Phonograph
 
-Edison was responsible for creating technology to identify submarines, but his phonograph discs were also used to help people at home understand the war. This is a recording of a dramatized submarine attack on a US cargo ship.
+Edison was responsible for creating technology to identify submarines, but his phonograph discs were also used to help people at home understand the war. This is a recording of a dramatized submarine attack on a US cargo ship.[^1]
 
 <param ve-video id="UP1blMpzrkE" title="Edison Diamond Disc - A Submarine Attack">
 
 
 # References
+[^1] Edison Diamond Disc https://www.youtube.com/watch?v=UP1blMpzrkE
