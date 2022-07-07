@@ -16,7 +16,7 @@
  <param title="Lawrence Addicks" eid="Q23198594">
  <param title="Naval Consulting Board" eid="Q17012131">
  <param title="Sir Eric Geddes" eid="Q959198" aliases="Geddes">
- <param title="Annapolis" eid="Q28271">
+ <param title="Annapolis,  Maryland" eid="Q28271" aliases="Annapolis">
  <param title="Sandy Hook, New Jersey" eid="Q1028611">
 
 # Lloyd N. Scott's Naval Consulting Board of the United States
@@ -36,8 +36,6 @@ The following sections have been published in the digital edition of the Thomas 
 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D164">
-
-Edison also created the first Battleship game. 
 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D167">
@@ -61,11 +59,12 @@ Edison also created the first Battleship game.
        manifest="https://edisondigital.rutgers.edu/iiif/X128D191B">
 
 (3) Appendix: Naval Laboratory, which contains the [majority report](https://edisondigital.rutgers.edu/document/X128D225) signed by Frank J. Sprague and Lawrence Addicks recommending Annapolis as the site of the proposed laboratory. 
-<param ve-map center="Q28271" zoom="15" prefer-geojson>
+<param ve-entity eid="Q28271">
+param ve-map center="Q28271" zoom="15" prefer-geojson>
 
 The [minority report](https://edisondigital.rutgers.edu/document/X128D230) signed by Edison recommending Sandy Hook, New Jersey. 
 <param ve-entity eid="Q1028611">
-<param ve-map center=Q1028611" zoom="15" prefer-geojson>
+<param ve-map center="Q1028611" zoom="15" prefer-geojson>
 
 Another appendix (not selected) contains thirty oversize maps of shipping routes along the coasts of Europe and North America, prepared by Edison and included in his letter to Geddes.
 
