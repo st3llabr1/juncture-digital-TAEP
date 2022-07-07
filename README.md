@@ -37,6 +37,8 @@ The following sections have been published in the digital edition of the Thomas 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D164">
 
+Edison also created the first Battleship game. 
+
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D167">
 
