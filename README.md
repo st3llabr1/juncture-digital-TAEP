@@ -16,10 +16,14 @@
 
 # Lloyd N. Scott's Naval Consulting Board of the United States
 
-This official history of the Naval Consulting Board was published by the Government Printing Office in 1920. It is available online through the [Hathi Trust](http://catalog.hathitrust.org/Record/001622838_) and through [Google Books](http://books.google.com/books?id=ZMdBAAAAIAAJ&source=gbs_ViewAPI). The following sections have been published in the digital edition of the Thomas A. Edison Papers: (1) front matter, including title page, table of contents, preface by Josephus Daniels, and photographs of Daniels and the Naval Consulting Board; (2) Chapter 11, "Inventive Accomplishments of Members," which discusses Edison's wartime research projects and includes extracts from several of his letters to Secretary of the Navy Josephus Daniels, as well as his letter of November 21, 1917, to Sir Eric Geddes, head of the British Admiralty; (3) Appendix: Naval Laboratory, which contains the [majority report](https://edisondigital.rutgers.edu/document/X128D225) signed by Frank J. Sprague and Lawrence Addicks recommending Annapolis as the site of the proposed laboratory and the [minority report](https://edisondigital.rutgers.edu/document/X128D230) signed by Edison recommending Sandy Hook, New Jersey. Another appendix (not selected) contains thirty oversize maps of shipping routes along the coasts of Europe and North America, prepared by Edison and included in his letter to Geddes. The maps are folded into the book and were only partially scanned by Google. For an Adobe Acrobat version of the selected pages, [click here](http://edison.rutgers.edu/Scott.pdf).
+This official history of the Naval Consulting Board was published by the Government Printing Office in 1920. It is available online through the [Hathi Trust](http://catalog.hathitrust.org/Record/001622838_) and through [Google Books](http://books.google.com/books?id=ZMdBAAAAIAAJ&source=gbs_ViewAPI). 
 
+The following sections have been published in the digital edition of the Thomas A. Edison Papers: 
+(1) front matter, including title page, table of contents, preface by Josephus Daniels, and photographs of Daniels and the Naval Consulting Board. 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D">
+
+(2) Chapter 11, "Inventive Accomplishments of Members," which discusses Edison's wartime research projects and includes extracts from several of his letters to Secretary of the Navy Josephus Daniels, as well as his letter of November 21, 1917, to Sir Eric Geddes, head of the British Admiralty. 
 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D005">
@@ -48,11 +52,16 @@ This official history of the Naval Consulting Board was published by the Governm
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D191B">
 
+(3) Appendix: Naval Laboratory, which contains the [majority report](https://edisondigital.rutgers.edu/document/X128D225) signed by Frank J. Sprague and Lawrence Addicks recommending Annapolis as the site of the proposed laboratory and the [minority report](https://edisondigital.rutgers.edu/document/X128D230) signed by Edison recommending Sandy Hook, New Jersey. Another appendix (not selected) contains thirty oversize maps of shipping routes along the coasts of Europe and North America, prepared by Edison and included in his letter to Geddes.
+
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D225">
 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D230">
+
+The maps are folded into the book and were only partially scanned by Google. For an Adobe Acrobat version of the selected pages, [click here](http://edison.rutgers.edu/Scott.pdf).
+
 
 The following is a list of research projects discussed in Chapter 11. The link on each project description leads to a folder of original documents related to that project in the [Charles Hummel Collection: Edison Wartime Research Reports](https://edisondigital.rutgers.edu/folder/X128C). In cases where there are several folders of original documents pertaining to a project, the link leads to the first folder in the numbered sequence. References to other folders containing documents relevant to a particular project appear in the descriptive notes introducing each folder.
 
