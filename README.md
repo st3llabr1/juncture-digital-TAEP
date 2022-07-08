@@ -79,9 +79,9 @@ Below are some examples of Edison's research experiments for the Naval Consultan
 
 * [Detecting Submarine by Sound from Moving Vessel](https://edisondigital.rutgers.edu/folder/X128C27) [pp.161-164](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=183)
 * [Quick Turning of Ships Sea Anchor](https://edisondigital.rutgers.edu/folder/X128C44) [pp.164-165](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=186)
-* [Strategic Plans for Saving Cargo Boats from Submarines](https://edisondigital.rutgers.edu/folder/X128C46)[pp.165-170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=187)
+* [Strategic Plans for Saving Cargo Boats from Submarines](https://edisondigital.rutgers.edu/folder/X128C46) [pp.165-170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=187)
 * [Collision Mats](https://edisondigital.rutgers.edu/folder/X128C54)[p.170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
-* [Taking Merchant Ships out of Mined Harbors](https://edisondigital.rutgers.edu/folder/X128C52)[pp.170-171](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
+* [Taking Merchant Ships out of Mined Harbors](https://edisondigital.rutgers.edu/folder/X128C52) [pp.170-171](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
 
 ## Edison, Submarines, and the Phonograph
 
