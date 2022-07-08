@@ -78,6 +78,7 @@ The following is a list prepared by Edison's personal assistant William H. Meado
        manifest="https://edisondigital.rutgers.edu/iiif/X128C00B">
 
 Below are some examples of Edison's research experiments for the Naval Consultancy Board, mentioned in Scott's book. The links on the page numbers lead to the appropriate page in the Hathi Trust version of Scott's book. Two projects—Sailing Lights for Convoys (pp.175-176) and Steamship Decoys (p.180)—do not have related documents in the Hummel Collection. The links for those projects lead only to the Scott book.
+<param ve-graphic url="https://edison.rutgers.edu/images/edison-life/25.300.13.jpg">
 
 * [Detecting Submarine by Sound from Moving Vessel](https://edisondigital.rutgers.edu/folder/X128C27) [pp.161-164](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=183)
 * [Quick Turning of Ships Sea Anchor](https://edisondigital.rutgers.edu/folder/X128C44) [pp.164-165](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=186)
