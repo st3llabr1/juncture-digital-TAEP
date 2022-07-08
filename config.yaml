@@ -16,7 +16,7 @@ logo: /images/logo-juncture.svg
 ######################################################
 nav:
 - label: Contact Us
-  icon: fas fa-envelope
+  icon: fas fa-acorn
   action: contact-us
 
 # If the /contact-us path is defined for the nav menu a contact form will be enabled
