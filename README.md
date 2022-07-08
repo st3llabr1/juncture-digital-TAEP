@@ -86,6 +86,7 @@ Below are some examples of Edison's research experiments for the Naval Consultan
 * [Quick Turning of Ships Sea Anchor](https://edisondigital.rutgers.edu/folder/X128C44) [pp.164-165](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=186)
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D164">
+       
 * [Strategic Plans for Saving Cargo Boats from Submarines](https://edisondigital.rutgers.edu/folder/X128C46)[pp.165-170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=187)
 * [Collision Mats](https://edisondigital.rutgers.edu/folder/X128C54)[p.170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
 * [Taking Merchant Ships out of Mined Harbors](https://edisondigital.rutgers.edu/folder/X128C52)[pp.170-171](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
