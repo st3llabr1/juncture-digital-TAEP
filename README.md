@@ -36,10 +36,6 @@ The following sections have been published in the digital edition of the Thomas 
 
 (2) Chapter 11, "Inventive Accomplishments of Members," which discusses Edison's wartime research projects and includes extracts from several of his letters to Secretary of the Navy Josephus Daniels, as well as his letter of November 21, 1917, to Sir Eric Geddes, head of the British Admiralty. 
 
-
-<param ve-image 
-       manifest="https://edisondigital.rutgers.edu/iiif/X128D167">
-
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D171">
 
@@ -67,7 +63,8 @@ The [minority report](https://edisondigital.rutgers.edu/document/X128D230) signe
 <param ve-map center="Q1028611" zoom="12" prefer-geojson>
 
 Another appendix (not selected) contains thirty oversize maps of shipping routes along the coasts of Europe and North America, prepared by Edison and included in his letter to Geddes.
-
+<param ve-image 
+       manifest="https://edisondigital.rutgers.edu/iiif/X128D167">
 
 The maps are folded into the book and were only partially scanned by Google. For an Adobe Acrobat version of the selected pages, [click here](http://edison.rutgers.edu/Scott.pdf). For the Google images via the Hathi Trust, [click here](https://babel.hathitrust.org/cgi/pt?id=uc1.$b72010&view=page&seq=343&q1=maps). 
 
