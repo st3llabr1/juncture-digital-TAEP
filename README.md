@@ -5,7 +5,7 @@
        author="Erin Mustard"
        banner="https://edison.rutgers.edu/templates/sas-red/images/rutgers/red_banner.png" 
        layout="vertical"
-       size="100,100">
+       size=",100">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
