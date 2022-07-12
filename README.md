@@ -4,8 +4,7 @@
        title="Edison and the Naval Consulting Board"
        author="Erin Mustard"
        banner="https://iiif.juncture-digital.org/banner/?url=https://edison.rutgers.edu/templates/sas-red/images/rutgers/red_banner.png&region=pct:20,20,80,20" 
-       layout="vertical"
-       size=",100">
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
