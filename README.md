@@ -40,8 +40,8 @@ The following sections have been published in the digital edition of the Thomas 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D172">
 
-<param ve-image 
-       manifest="https://edisondigital.rutgers.edu/files/square/X128D172/xy9999.jpg">
+<param ve-graphic url 
+       ="https://edisondigital.rutgers.edu/files/square/X128D172/xy9999.jpg">
 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D185">
