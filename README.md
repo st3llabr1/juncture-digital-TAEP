@@ -37,8 +37,7 @@ The following sections have been published in the digital edition of the Thomas 
 <param ve-image 
        manifest="https://edisondigital.rutgers.edu/iiif/X128D171">
 
-<param ve-graphic url 
-       ="https://edisondigital.rutgers.edu/files/square/X128D172/xy9999.jpg">
+<param ve-graphic url="https://edisondigital.rutgers.edu/files/square/X128D172/xy9999.jpg">
 
 (3) Appendix: Naval Laboratory, which contains the [majority report](https://edisondigital.rutgers.edu/document/X128D225) signed by Frank J. Sprague and Lawrence Addicks recommending Annapolis as the site of the proposed laboratory. 
 <param ve-entity eid="Q28271">
