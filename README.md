@@ -3,7 +3,7 @@
 <param ve-config 
        title="Edison and the Naval Consulting Board"
        author="Erin Mustard"
-       banner="https://edison.rutgers.edu/templates/sas-red/images/rutgers/red_banner.png" 
+       banner="https://edison.rutgers.edu/templates/sas-red/images/rutgers/red_banner/full/,150/0/default.png" 
        layout="vertical"
        size=",100">
 
