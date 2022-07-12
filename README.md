@@ -4,8 +4,7 @@
        title="Edison and the Naval Consulting Board"
        author="Erin Mustard"
        banner="https://edison.rutgers.edu/templates/sas-red/images/rutgers/red_banner.png" 
-       layout="vertical"
-       size="150">
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
@@ -25,7 +24,8 @@
 This official history of the Naval Consulting Board was published by the Government Printing Office in 1920. It is available online through the [Hathi Trust](http://catalog.hathitrust.org/Record/001622838_) and through [Google Books](http://books.google.com/books?id=ZMdBAAAAIAAJ&source=gbs_ViewAPI). 
 
 <param ve-image
-       manifest="https://edisondigital.rutgers.edu/iiif/X128D">
+       manifest="https://edisondigital.rutgers.edu/iiif/X128D"
+       size="pct:100">
 
 The following sections have been published in the digital edition of the Thomas A. Edison Papers: 
 (1) front matter, including title page, table of contents, preface by Josephus Daniels, and photographs of Daniels and the Naval Consulting Board. 
