@@ -10,7 +10,7 @@
 <param ve-entity eid="Q1782080"> <!-- Marion Estelle Edison Oeser -->
 <param ve-entity eid="Q63823815"> <!-- William Leslie Edison -->
 <param ve-entity eid="Q8743"> <!-- Thomas Alva Edison -->
-<param ve-entity eid="QQ22087338"> <!-- Mina Miller Edison -->
+<param ve-entity eid="Q22087338"> <!-- Mina Miller Edison -->
 
 # Timeline of Edison Family During World War I
 
