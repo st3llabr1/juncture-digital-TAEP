@@ -15,18 +15,9 @@
 <param title="Marion Estelle Edison Oeser" eid="Q1782080">
 <param title="Marion Estelle Edison Oeser" eid="Q1782080">
 
+# Introduction
 
-# Timeline of Edison Family During World War I
-
-Thomas Edison
-Mina Miller Edison
-William Leslie Edison
-Marion Estelle Edison Oeser
-<param ve-knightlab-timeline source="1p7EGt1Kn139wrGo80x97DE3VkSLsCt6VQChHp9LUqeE" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
-
-# Basic usage
-
-## Image
+## Marion Estelle Edison Oeser
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
@@ -36,6 +27,8 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       
+## William Leslie Edison
 
 ## Map
 
@@ -50,6 +43,10 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
+
+# Timeline of Edison Family During World War I
+
+<param ve-knightlab-timeline source="1p7EGt1Kn139wrGo80x97DE3VkSLsCt6VQChHp9LUqeE" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
 
 # References
 
