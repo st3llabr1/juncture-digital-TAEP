@@ -4,13 +4,17 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sargent%2C_John_Singer_%28RA%29_-_Gassed_-_Google_Art_Project.jpg/1024px-Sargent%2C_John_Singer_%28RA%29_-_Gassed_-_Google_Art_Project.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q1782080"> <!-- Marion Estelle Edison Oeser -->
-<param ve-entity eid="Q63823815"> <!-- William Leslie Edison -->
-<param ve-entity eid="Q8743"> <!-- Thomas Alva Edison -->
-<param ve-entity eid="Q22087338"> <!-- Mina Miller Edison -->
+<param title="Thomas Alva Edison" eid="Q8743">
+<param title="Marion Estelle Edison Oeser" eid="Q1782080">
+<param title="William Leslie Edison" eid="Q63823815">
+<param title="Mina Miller Edisom" eid="Q22087338">
+
+<param title="Marion Estelle Edison Oeser" eid="Q1782080">
+<param title="Marion Estelle Edison Oeser" eid="Q1782080">
+<param title="Marion Estelle Edison Oeser" eid="Q1782080">
+<param title="Marion Estelle Edison Oeser" eid="Q1782080">
+<param title="Marion Estelle Edison Oeser" eid="Q1782080">
+
 
 # Timeline of Edison Family During World War I
 
@@ -18,8 +22,7 @@ Thomas Edison
 Mina Miller Edison
 William Leslie Edison
 Marion Estelle Edison Oeser
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+<param ve-knightlab-timeline source="1p7EGt1Kn139wrGo80x97DE3VkSLsCt6VQChHp9LUqeE" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
 
 # Basic usage
 
