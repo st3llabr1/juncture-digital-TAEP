@@ -47,4 +47,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: Banner image [World War I in Popular Culture, John Singer Sargent *Gassed*](https://en.wikipedia.org/wiki/World_War_I_in_popular_culture#cite_ref-19)
