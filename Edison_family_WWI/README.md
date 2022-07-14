@@ -1,7 +1,7 @@
 <param ve-config 
        title="William & Marion: Reports from Europe"
        author="Erin Mustard"
-       banner="https://upload.wikimedia.org/wikipedia/commons/8/89/Sargent%2C_John_Singer_%28RA%29_-_Gassed_-_Google_Art_Project.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sargent%2C_John_Singer_%28RA%29_-_Gassed_-_Google_Art_Project.jpg/1024px-Sargent%2C_John_Singer_%28RA%29_-_Gassed_-_Google_Art_Project.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
