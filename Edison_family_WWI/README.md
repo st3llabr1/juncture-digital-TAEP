@@ -8,28 +8,54 @@
 <param title="Marion Estelle Edison Oeser" eid="Q1782080">
 <param title="William Leslie Edison" eid="Q63823815">
 <param title="Mina Miller Edisom" eid="Q22087338">
+<param title="First World War" eid="Q361">
+<param title="Spanish American War" eid="Q12583">
 
-<param title="Marion Estelle Edison Oeser" eid="Q1782080">
-<param title="Marion Estelle Edison Oeser" eid="Q1782080">
 <param title="Marion Estelle Edison Oeser" eid="Q1782080">
 <param title="Marion Estelle Edison Oeser" eid="Q1782080">
 <param title="Marion Estelle Edison Oeser" eid="Q1782080">
 
 # Introduction
 
-## Marion Estelle Edison Oeser
+## Marion Estelle Edison Oeser Biography
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Mary and Thomas Edison's first child was Marion Estelle, born on February 18, 1873. As a child, her nickname was "Dot," a reference to the Morse code used to send messages on telegraphs. Between her mother's death and her father's remarriage, 12-year-old Marion spent a great deal of time with her father. He even sent her out to buy his cigars. She claims to have seen Edison propose marriage to Mina Miller using Morse code.
+
+Marion boarded at Somerville Seminary in Somerville, New Jersey, and Bradford Academy in Bradford, Massachusetts. In 1895 she married Karl Oscar Oeser, a German army lieutenant, and lived in Germany even through the First World War. Although she described her marriage as "one long drawn out honeymoon," it ended in divorce in 1921. She then returned to the United States, where she died on April 16, 1965. [^2]
+
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
-       
-## William Leslie Edison
 
+## Marion Estelle Edison Oeser During World War I
+
+The letters also contain extensive discussion of social, political, and economic conditions in Germany during World War I and the years immediately following. Among the topics mentioned are the enormous casualties of the war, Marion's fear for her own life and Oscar's, the impact of the war on her physical and mental health, the role of German women during the war, French bombing of the Alsace region, Marion's flight to Switzerland after the U.S. declaration of war, the rampant inflation and widespread suffering of the postwar years, the deterioration in Marion's own standard of living, and the French occupation of the Ruhr in 1923. [^3]
+<param ve-image 
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+ 
+ ## Map
+
+The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
+literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+<param ve-map center="Q36600" zoom="11" prefer-geojson>
+       
+## William Leslie Edison Biography
+
+William Leslie was born on October 26, 1878. Like his older brother, William boarded at St. Paul's School, Concord, New Hampshire, and the J.M. Hawkins School on Staten Island. He later studied at the SheffieldScientificSchool at Yale. He married Blanche Travers. He served in the military during the Spanish-American War in 1898 and again in the First World War (though he wrote his father in 1918 in a failed attempt to get a discharge).
+
+Relations between William and his father were strained. Edison once responded to a request for money from Blanche Edison by writing, "I see no reason whatever why I should support my son. He has done me no honor and has brought the blush of shame to my cheeks many times." Like his brother he turned to farm life, breeding chickens. He died on August 10, 1937.[^4]
+
+<param ve-image 
+       label="William Leslie Edison" 
+       description="photo of William Leslie Edison" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f9/William_Leslie_Edison._Inscribed-_%22With_love%2C_William_L._Edison_Aug._3rd_97%22_%283021f629527a414ca5200d686b2dd183%29.jpg">
+       
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
@@ -51,3 +77,9 @@ Others are selectable using icons displayed in the top right margin of the parag
 # References
 
 [^1]: Banner image [World War I in Popular Culture, John Singer Sargent *Gassed*](https://en.wikipedia.org/wiki/World_War_I_in_popular_culture#cite_ref-19)
+[^2]: Marion Estelle Edsion Oeser Biography [
+Marion Estelle Edison Oeser](https://www.nps.gov/edis/learn/historyculture/marion-estelle-edison-oeser.htm)
+[^3]: Marion Estelle Edison Series Notes [Part Of: Family Records Series -- Charles Edison Fund Collection -- Edison-Miller Family Papers](https://edisondigital.rutgers.edu/folder/F5D11-F#?cv=&c=&m=&s=)
+[^4] William Leslie Edison Biography [
+William Leslie Edison](https://www.nps.gov/edis/learn/historyculture/william-leslie-edison.htm)
+
