@@ -46,7 +46,7 @@ William Leslie was born on October 26, 1878. Like his older brother, William boa
        label="William Leslie Edison" 
        description="photo of William Leslie Edison" 
        license="public domain" 
-       url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/William_Leslie_Edison._Inscribed-__With_love,_William_L._Edison_Aug._3rd_97__(3021f629527a414ca5200d686b2dd183).jpg">
+       url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/William_Leslie_Edison._Inscribed-__With_love,_William_L._Edison_Aug._3rd_97__(3021f629527a414ca5200d686b2dd183)edited.jpg">
 
 
 
