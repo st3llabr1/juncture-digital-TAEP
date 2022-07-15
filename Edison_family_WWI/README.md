@@ -33,10 +33,10 @@ Marion boarded at Somerville Seminary in Somerville, New Jersey, and Bradford Ac
 
 The letters also contain extensive discussion of social, political, and economic conditions in Germany during World War I and the years immediately following. Among the topics mentioned are the enormous casualties of the war, Marion's fear for her own life and Oscar's, the impact of the war on her physical and mental health, the role of German women during the war, French bombing of the Alsace region, Marion's flight to Switzerland after the U.S. declaration of war, the rampant inflation and widespread suffering of the postwar years, the deterioration in Marion's own standard of living, and the French occupation of the Ruhr in 1923. [^3]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Marion Estelle Edison" 
+       description="photo of Marion Estelle Edison, age 8" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg/391px-Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg">
  
  ## Map
 
@@ -80,6 +80,6 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^2]: Marion Estelle Edsion Oeser Biography [
 Marion Estelle Edison Oeser](https://www.nps.gov/edis/learn/historyculture/marion-estelle-edison-oeser.htm)
 [^3]: Marion Estelle Edison Series Notes [Part Of: Family Records Series -- Charles Edison Fund Collection -- Edison-Miller Family Papers](https://edisondigital.rutgers.edu/folder/F5D11-F#?cv=&c=&m=&s=)
-[^4] William Leslie Edison Biography [
+[^4]: William Leslie Edison Biography [
 William Leslie Edison](https://www.nps.gov/edis/learn/historyculture/william-leslie-edison.htm)
 
