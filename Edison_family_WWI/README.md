@@ -40,7 +40,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
        
 ## William Leslie Edison Biography
 
-William Leslie was born on October 26, 1878. Like his older brother, William boarded at St. Paul's School, Concord, New Hampshire, and the J.M. Hawkins School on Staten Island. He later studied at the SheffieldScientificSchool at Yale. He married Blanche Travers. He served in the military during the Spanish-American War in 1898 and again in the First World War (though he wrote his father in 1918 in a failed attempt to get a discharge). Relations between William and his father were strained. Edison once responded to a request for money from Blanche Edison by writing, "I see no reason whatever why I should support my son. He has done me no honor and has brought the blush of shame to my cheeks many times." Like his brother he turned to farm life, breeding chickens. He died on August 10, 1937.[^4]
+William Leslie was born on October 26, 1878. Like his older brother, William boarded at St. Paul's School, Concord, New Hampshire, and the J.M. Hawkins School on Staten Island. He later studied at the Sheffield Scientific School at Yale. He married Blanche Travers. He served in the military during the Spanish-American War in 1898 and again in the First World War (though he wrote his father in 1918 in a failed attempt to get a discharge). Relations between William and his father were strained. Edison once responded to a request for money from Blanche Edison by writing, "I see no reason whatever why I should support my son. He has done me no honor and has brought the blush of shame to my cheeks many times." Like his brother he turned to farm life, breeding chickens. He died on August 10, 1937.[^4]
 
 <param ve-graphic 
        label="William Leslie Edison" 
@@ -48,9 +48,9 @@ William Leslie was born on October 26, 1878. Like his older brother, William boa
        license="public domain" 
        url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/William_Leslie_Edison._Inscribed-__With_love,_William_L._Edison_Aug._3rd_97__(3021f629527a414ca5200d686b2dd183)edited.jpg">
 
+## William Leslie Edison During the War
 
-
-##William Leslie Edison During the War
+The selected items in this folder cover the years 1912-1930. They consist primarily of letters from William L. Edison to his stepmother Mina Miller Edison. Included are references to William's business career, his involvement in World War I, and his troubled relationship with his family.[^5]
 
 ## Map
 
@@ -78,4 +78,5 @@ Marion Estelle Edison Oeser](https://www.nps.gov/edis/learn/historyculture/mario
 [^3]: Marion Estelle Edison Series Notes [Part Of: Family Records Series -- Charles Edison Fund Collection -- Edison-Miller Family Papers](https://edisondigital.rutgers.edu/folder/F5D11-F#?cv=&c=&m=&s=)
 [^4]: William Leslie Edison Biography [
 William Leslie Edison](https://www.nps.gov/edis/learn/historyculture/william-leslie-edison.htm)
+[^5]: Willliam Leslie Edison Series Notes [Part Of: Family Records Series -- Charles Edison Fund Collection -- Edison-Miller Family Papers](https://edisondigital.rutgers.edu/folder/F5D03-F#?cv=&c=&m=&s=)
 
