@@ -19,11 +19,9 @@
 
 ## Marion Estelle Edison Oeser Biography
 
-Mary and Thomas Edison's first child was Marion Estelle, born on February 18, 1873. As a child, her nickname was "Dot," a reference to the Morse code used to send messages on telegraphs. Between her mother's death and her father's remarriage, 12-year-old Marion spent a great deal of time with her father. He even sent her out to buy his cigars. She claims to have seen Edison propose marriage to Mina Miller using Morse code.
+Mary and Thomas Edison's first child was Marion Estelle, born on February 18, 1873. As a child, her nickname was "Dot," a reference to the Morse code used to send messages on telegraphs. Between her mother's death and her father's remarriage, 12-year-old Marion spent a great deal of time with her father. He even sent her out to buy his cigars. She claims to have seen Edison propose marriage to Mina Miller using Morse code. Marion boarded at Somerville Seminary in Somerville, New Jersey, and Bradford Academy in Bradford, Massachusetts. In 1895 she married Karl Oscar Oeser, a German army lieutenant, and lived in Germany even through the First World War. Although she described her marriage as "one long drawn out honeymoon," it ended in divorce in 1921. She then returned to the United States, where she died on April 16, 1965. [^2]
 
-Marion boarded at Somerville Seminary in Somerville, New Jersey, and Bradford Academy in Bradford, Massachusetts. In 1895 she married Karl Oscar Oeser, a German army lieutenant, and lived in Germany even through the First World War. Although she described her marriage as "one long drawn out honeymoon," it ended in divorce in 1921. She then returned to the United States, where she died on April 16, 1965. [^2]
-
-<param ve-image 
+<param ve-graphic 
        label="Marion Estelle Edison" 
        description="photo of Marion Estelle Edison, age 8" 
        license="public domain" 
@@ -42,15 +40,15 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
        
 ## William Leslie Edison Biography
 
-William Leslie was born on October 26, 1878. Like his older brother, William boarded at St. Paul's School, Concord, New Hampshire, and the J.M. Hawkins School on Staten Island. He later studied at the SheffieldScientificSchool at Yale. He married Blanche Travers. He served in the military during the Spanish-American War in 1898 and again in the First World War (though he wrote his father in 1918 in a failed attempt to get a discharge).
+William Leslie was born on October 26, 1878. Like his older brother, William boarded at St. Paul's School, Concord, New Hampshire, and the J.M. Hawkins School on Staten Island. He later studied at the SheffieldScientificSchool at Yale. He married Blanche Travers. He served in the military during the Spanish-American War in 1898 and again in the First World War (though he wrote his father in 1918 in a failed attempt to get a discharge). Relations between William and his father were strained. Edison once responded to a request for money from Blanche Edison by writing, "I see no reason whatever why I should support my son. He has done me no honor and has brought the blush of shame to my cheeks many times." Like his brother he turned to farm life, breeding chickens. He died on August 10, 1937.[^4]
 
-<param ve-image 
+<param ve-graphic 
        label="William Leslie Edison" 
        description="photo of William Leslie Edison" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/f/f9/William_Leslie_Edison._Inscribed-_%22With_love%2C_William_L._Edison_Aug._3rd_97%22_%283021f629527a414ca5200d686b2dd183%29.jpg">
 
-Relations between William and his father were strained. Edison once responded to a request for money from Blanche Edison by writing, "I see no reason whatever why I should support my son. He has done me no honor and has brought the blush of shame to my cheeks many times." Like his brother he turned to farm life, breeding chickens. He died on August 10, 1937.[^4]
+
 
 ##William Leslie Edison During the War
 
