@@ -79,6 +79,7 @@ Among the topics mentioned are the enormous casualties of the war, Marion's fear
        fit="contain"
        seq="0"
        >
+       
 She continues her letter discussing her mental and emotional state. 
 
 <param ve-image
