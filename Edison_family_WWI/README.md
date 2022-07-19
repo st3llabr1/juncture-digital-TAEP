@@ -105,11 +105,11 @@ She continues her letter discussing her mental and emotional state.
 
 Marion wrote letters to her father and Mina from a few her home in Germany.
 <param ve-entity eid="Q183">
-<param ve-map center="Q183" zoom="15" prefer-geojson>
+<param ve-map center="Q183" zoom="8" prefer-geojson>
 
 She also wrote letters from a hotel in Switzerland, that she visited frequently, but became more difficult to visit as the war went on. 
 <param ve-entity eid="Q39">
-<param ve-map center="Q39" zoom="15" prefer-geojson>
+<param ve-map center="Q39" zoom="8" prefer-geojson>
 
        
 ## William Leslie Edison Biography
