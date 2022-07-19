@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "\"Your letter together with one form Cousin Edith came together yesterday a glimpse of sunshine on a dark day. You seem so well to understand what I have gon trhough with since the war began. So many years of happiness left me. I'm unprepared for this misfortune.\"",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://edisondigital.rutgers.edu/iiif/2/369472",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:50.26703643798828,374.6444091796875,713.857048034668,486.75634765625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d26f70bc-7cdf-4472-a9d3-dabf32a45e1a"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Eichwald-on-the-Rhine, 19 September 2014",
         "purpose": "commenting"
       }
