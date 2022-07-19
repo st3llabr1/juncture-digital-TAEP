@@ -41,6 +41,13 @@ img="https://static.wixstatic.com/media/9b6a68_67b293dca4984e8286097564cd1872cb~
 ## Marion Estelle Edison Oeser During World War I
 
 The letters also contain extensive discussion of social, political, and economic conditions in Germany during World War I and the years immediately following. 
+<param ve-image
+       title="Edited photos from Marion Estelle Edison Oeser from 1914"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018A5AW1"
+       seq="5"
+       fit="contain"
+       curtain="true"
+       >
 
 <param ve-image
        title="Edited photos from Marion Estelle Edison Oeser from 1914"
