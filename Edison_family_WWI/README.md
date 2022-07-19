@@ -29,7 +29,23 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Estelle_Ed
 
 ## Marion Estelle Edison Oeser During World War I
 
-The letters also contain extensive discussion of social, political, and economic conditions in Germany during World War I and the years immediately following. Among the topics mentioned are the enormous casualties of the war, Marion's fear for her own life and Oscar's, the impact of the war on her physical and mental health, the role of German women during the war, French bombing of the Alsace region, Marion's flight to Switzerland after the U.S. declaration of war, the rampant inflation and widespread suffering of the postwar years, the deterioration in Marion's own standard of living, and the French occupation of the Ruhr in 1923. [^3]
+The letters also contain extensive discussion of social, political, and economic conditions in Germany during World War I and the years immediately following. 
+
+<param ve-image
+       title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018A5AR"
+       fit="contain"
+       compare="true"
+       ref="1"
+       >
+<param ve-image
+       title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison"
+       manifest="[https://edisondigital.rutgers.edu/iiif/X018A5AR](https://edisondigital.rutgers.edu/iiif/X018A5AW1)"
+       fit="contain"
+       ref="1"
+       >
+
+Among the topics mentioned are the enormous casualties of the war, Marion's fear for her own life and Oscar's, the impact of the war on her physical and mental health, the role of German women during the war, French bombing of the Alsace region, Marion's flight to Switzerland after the U.S. declaration of war, the rampant inflation and widespread suffering of the postwar years, the deterioration in Marion's own standard of living, and the French occupation of the Ruhr in 1923. [^3]
 
 <param ve-image
        title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison"
