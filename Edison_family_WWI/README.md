@@ -104,26 +104,8 @@ She continues her letter discussing her mental and emotional state.
  ## Map
 
 Marion wrote letters to her father and Mina from a few different cities in Germany and Switzerland. 
-
-<param ve-map 
-       zoom="2"
-       time-dimension
-       time-interval="-008000/"
-       duration="P10000Y"
-       basemap="Esri_WorldGrayCanvas"
-       max-zoom="4"
-       date-format="YYYY"
-       auto-play="true"
-       auto-fit="false"
-       fps="4"
-       marker-type="circle"
-       radius="4" 
-       stroke-width="0"
-       fill="blue" 
-       fill-opacity="1">
-<param ve-map-layer geojson
-       title="Worlds most populated cities"
-       url="cities.json">
+<param ve-entity eid="Q220">
+<param ve-map center="Q220" zoom="10" prefer-geojson>
 
        
 ## William Leslie Edison Biography
