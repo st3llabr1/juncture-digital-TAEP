@@ -44,7 +44,8 @@ The letters also contain extensive discussion of social, political, and economic
 
 <param ve-image
        title="Edited photos from Marion Estelle Edison Oeser from 1914"
-       url="http://free.iiifhosting.com/iiif/5aa076fe4ef2fc23cc0ce4e2d6cd01166361c4dd938c5aa97c3dbbd07b3ceb22/info.json"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018A5AW1"
+       seq="6"
        fit="contain"
        curtain="true"
        >
