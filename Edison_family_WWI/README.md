@@ -121,7 +121,7 @@ William Leslie was born on October 26, 1878. Like his older brother, William boa
 
 ## William Leslie Edison During the War
 
-The selected items in this folder cover the years 1912-1930. They consist primarily of letters from William L. Edison to his stepmother Mina Miller Edison. Included are references to William's business career, his involvement in World War I, and his troubled relationship with his family.[^5]
+The selected items in this folder cover the years 1912-1930. They consist primarily of letters from William L. Edison to his stepmother Mina Miller Edison. Included are references to William's business career, his involvement in World War I, and his <span data-click-image-zoomto="3607,4314,4238,4061">troubled relationship </span>with his family.[^5]
 
 <param ve-image
        title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, pages 1-4"
