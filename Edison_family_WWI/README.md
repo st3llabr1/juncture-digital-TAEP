@@ -44,7 +44,7 @@ The letters also contain extensive discussion of social, political, and economic
        description="letter discussing social conditions"
        license="The Edison Papers, Rutgers University"
        url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/MEEO-Letters/edisonmicrofilm285%2030.jpg"
-       ref="1"
+       ref="2"
        >
 
 Among the topics mentioned are the enormous casualties of the war, Marion's fear for her own life and Oscar's, the impact of the war on her physical and mental health, the role of German women during the war, French bombing of the Alsace region, Marion's flight to Switzerland after the U.S. declaration of war, the rampant inflation and widespread suffering of the postwar years, the deterioration in Marion's own standard of living, and the French occupation of the Ruhr in 1923. [^3]
