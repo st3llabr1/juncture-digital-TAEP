@@ -105,8 +105,10 @@ She continues her letter discussing her mental and emotional state.
 
 Marion wrote letters to her father and Mina from a few different cities in Germany and Switzerland. 
 
-<param ve-map zoom="2">
-<param ve-map-layer geojson title="Marion's Letter Locations" url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/MEEO-Letters/Marion_Germany.geojson">
+<param ve-entity title="Nicaragua" eid="Q811" fill="#92086D" marker-symbol="user">
+<param ve-map title="Girolamo Benzoni's Accounts Refer to Cacao Being Grown in Nicaragua" center="12.316683, -84.946184" zoom="5" basemap="Esri_WorldPhysical">
+<param ve-map-layer geojson active title="Central American Neotropics" url="Neotropics.geojson">
+<param ve-map-layer geojson active title="Nicaragua" url="Nicaragua.geojson">
 
        
 ## William Leslie Edison Biography
