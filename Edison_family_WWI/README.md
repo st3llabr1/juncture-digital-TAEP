@@ -27,15 +27,6 @@ Mary and Thomas Edison's first child was Marion Estelle, born on February 18, 18
        description="photo of Marion Estelle Edison, age 8" 
        license="public domain" 
 img="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg/313px-Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg"
-       ref="1"
-       >
-<param ve-graphic 
-       fit="contain"
-       label="Marion Estelle Edison" 
-       description="photo of Marion Estelle Edison, age 8" 
-       license="public domain" 
-img="https://static.wixstatic.com/media/9b6a68_67b293dca4984e8286097564cd1872cb~mv2.png/v1/fill/w_454,h_454,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Thomas%20Edison%20Junior.png"
-       ref="2"
        >
 
 ## Marion Estelle Edison Oeser During World War I
@@ -57,7 +48,6 @@ The letters also contain extensive discussion of social, political, and economic
        curtain="true"
        >
        
-
 This is a letter from Marion to her father and Mina, written in German. A transcription is below. 
 *“English letters are not being forwarded during the war, but I did not want to leave you without news. I am sure someone will easily be found who might translate these few lines of mine to you. A terrible era has commenced one really shudders thinking of what else may be happening. What we have experienced so far is enough already. Officers told us that French soldiers stabbed the eyes of the German wounded. The aviators report that part of Mulhouen are lodging in ruins. Where Oskar is I do not know. Whether our house is still standing, I know just a little. There will be unspeakable misery for years to come. I came here 10 days ago in a terrible night. Oskar brought me here in an Auto, and I am rather safe now. For this reason. There are a great number of Red Cross hospitals here. I suppose I..."* (continued on page 2)
 
@@ -87,7 +77,7 @@ Among the topics mentioned are the enormous casualties of the war, Marion's fear
        title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison"
        manifest="https://edisondigital.rutgers.edu/iiif/X018A5AR"
        fit="contain"
-       ref="1"
+       seq="1"
        >
  ## Map
 
