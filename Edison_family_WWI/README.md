@@ -109,7 +109,9 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # Timeline of Edison Family During World War I
 
-This timeline gives an overview of the activities and locations of all Edison's children in during the war. <param ve-knightlab-timeline source="1p7EGt1Kn139wrGo80x97DE3VkSLsCt6VQChHp9LUqeE" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
+This timeline gives an overview of the activities and locations of all Edison's children in during the war. 
+
+<param ve-knightlab-timeline source="1p7EGt1Kn139wrGo80x97DE3VkSLsCt6VQChHp9LUqeE" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
 
 # References
 
