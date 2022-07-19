@@ -80,6 +80,7 @@ Among the topics mentioned are the enormous casualties of the war, Marion's fear
        seq="0"
        >
 She continues her letter discussing her mental and emotional state. 
+
 <param ve-image
        title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, page 2"
        manifest="https://edisondigital.rutgers.edu/iiif/X018A5AR"
@@ -98,6 +99,7 @@ She continues her letter discussing her mental and emotional state.
        fit="contain"
        seq="3"
        >
+       
  ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
