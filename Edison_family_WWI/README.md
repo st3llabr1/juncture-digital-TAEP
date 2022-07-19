@@ -40,7 +40,7 @@ This is a letter from Marion to her father and Mina, written in German. A transc
        label="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, in German, page 1"
        description="letter discussing social conditions"
        license="The Edison Papers, Rutgers University"
-       url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/MEEO-Letters/edisonmicrofilm285%2029.jpg"
+       img="http://em1043.rutgers-sci.domains/TAEP_PN_Project/MEEO-Letters/edisonmicrofilm285%2029.jpg"
        ref="1"
        >
        
