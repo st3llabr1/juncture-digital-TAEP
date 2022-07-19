@@ -103,9 +103,11 @@ She continues her letter discussing her mental and emotional state.
        
  ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+Marion wrote letters to her father and Mina from a few different cities in Germany and Switzerland. 
+
+<param ve-entity eid="Q9251692">
+<param ve-map center="Q9251692" zoom="10" prefer-geojson>
+<param ve-entity eid="Q63939" zoom="10" prefer-geojson>
        
 ## William Leslie Edison Biography
 
