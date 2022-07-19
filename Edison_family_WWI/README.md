@@ -41,6 +41,7 @@ Page 1
        url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/MEEO-Letters/edisonmicrofilm285%2029.jpg"
        ref="1"
        >
+       
  The letter continues on page 2
  <param ve-graphic
        label="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, in German, page 2"
