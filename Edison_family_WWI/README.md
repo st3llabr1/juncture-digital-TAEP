@@ -34,6 +34,7 @@ img="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Estelle_Ed
 The letters also contain extensive discussion of social, political, and economic conditions in Germany during World War I and the years immediately following. 
 
 <param ve-image
+       title="Edited photos from Marion Estelle Edison Oeser from 1914"
        url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/MEEO-Letters/Marion_edited_photos_1914.json"
        curtain="true"
        fit="contain"
