@@ -32,12 +32,11 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Estelle_Ed
 The letters also contain extensive discussion of social, political, and economic conditions in Germany during World War I and the years immediately following. Among the topics mentioned are the enormous casualties of the war, Marion's fear for her own life and Oscar's, the impact of the war on her physical and mental health, the role of German women during the war, French bombing of the Alsace region, Marion's flight to Switzerland after the U.S. declaration of war, the rampant inflation and widespread suffering of the postwar years, the deterioration in Marion's own standard of living, and the French occupation of the Ruhr in 1923. [^3]
 
 <param ve-image
-       title="Image comparison of the canopy of a dragon tree (_Dracaena draco_) with a classical Greek depiction of the dragon Ladon."
+       title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison"
        manifest="https://edisondigital.rutgers.edu/iiif/X018A5AR"
-       curtain="true"
        fit="contain"
-       ref="1" >
- 
+       <span data-click-image-zoomto="next">Next Page</span>
+       >
  ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
