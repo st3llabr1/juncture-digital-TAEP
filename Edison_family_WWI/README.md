@@ -37,8 +37,10 @@ The letters also contain extensive discussion of social, political, and economic
        title="Edited photos from Marion Estelle Edison Oeser from 1914"
        url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/MEEO-Letters/Marion_edited_photos_1914.json"
        fit="contain"
-       ref="1" >
+       ref="1" 
        <span data-click-image-zoomto="next">Foo Text</span>
+       >
+       
 
 This is a letter from Marion to her father and Mina, written in German. A transcription is below. 
 *“English letters are not being forwarded during the war, but I did not want to leave you without news. I am sure someone will easily be found who might translate these few lines of mine to you. A terrible era has commenced one really shudders thinking of what else may be happening. What we have experienced so far is enough already. Officers told us that French soldiers stabbed the eyes of the German wounded. The aviators report that part of Mulhouen are lodging in ruins. Where Oskar is I do not know. Whether our house is still standing, I know just a little. There will be unspeakable misery for years to come. I came here 10 days ago in a terrible night. Oskar brought me here in an Auto, and I am rather safe now. For this reason. There are a great number of Red Cross hospitals here. I suppose I..."* (continued on page 2)
