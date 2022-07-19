@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "\"Your letter together with one form Cousin Edith came together yesterday a glimpse of sunshine on a dark day. You seem so well to understand what I have gon trhough with since the war began. So many years of happiness left me. I'm unprepared for this misfortune.\"",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://edisondigital.rutgers.edu/iiif/2/369472",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:24.242427825927734,367.00006103515625,748.288272857666,505.15008544921875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3e144f31-c77c-4a15-8087-dac9b55850ba"
+  }
+]
