@@ -79,6 +79,7 @@ Among the topics mentioned are the enormous casualties of the war, Marion's fear
        fit="contain"
        seq="0"
        >
+She continues her letter discussing her mental and emotional state. 
 <param ve-image
        title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, page 2"
        manifest="https://edisondigital.rutgers.edu/iiif/X018A5AR"
