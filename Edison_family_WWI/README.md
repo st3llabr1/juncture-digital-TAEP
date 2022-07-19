@@ -107,7 +107,7 @@ Marion wrote letters to her father and Mina from a few different cities in Germa
 
 <param ve-entity eid="Q9251692">
 <param ve-map center="Q9251692" zoom="10" prefer-geojson>
-<param ve-entity eid="Q63939" zoom="10" prefer-geojson>
+
        
 ## William Leslie Edison Biography
 
