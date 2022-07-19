@@ -33,7 +33,7 @@ The letters also contain extensive discussion of social, political, and economic
 
  <param ve-image
        title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison"
-       manifest="https://edisondigital.rutgers.edu/iiif/X018A5AR](https://iiif.archivelab.org/iiif/edisonmicrofilm285$28/full/full/0/default.jpg"
+       manifest="https://iiif.archivelab.org/iiif/edisonmicrofilm285$28/full/full/0/default.jpg"
        fit="contain"
        curtain="true"
        ref="1"
