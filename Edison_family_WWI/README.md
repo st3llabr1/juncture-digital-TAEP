@@ -36,7 +36,6 @@ The letters also contain extensive discussion of social, political, and economic
 <param ve-image
        title="Edited photos from Marion Estelle Edison Oeser from 1914"
        url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/MEEO-Letters/Marion_edited_photos_1914.json"
-       curtain="true"
        fit="contain"
        ref="1" >
 
