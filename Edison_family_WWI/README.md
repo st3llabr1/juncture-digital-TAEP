@@ -32,11 +32,18 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Estelle_Ed
 
 The letters also contain extensive discussion of social, political, and economic conditions in Germany during World War I and the years immediately following. 
 
- <param ve-image
-       title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison"
-       manifest="https://iiif.archivelab.org/iiif/edisonmicrofilm285/manifest.json"
-       fit="contain"
-       curtain="true"
+ <param ve-graphic
+       label="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, social conditions"
+       description="letter discussing social conditions"
+       license="The Edison Papers, Rutgers University"
+       url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/MEEO-Letters/edisonmicrofilm285%2029.pdf"
+       ref="1"
+       >
+ <param ve-graphic
+       label="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, social conditions"
+       description="letter discussing social conditions"
+       license="The Edison Papers, Rutgers University"
+       url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/MEEO-Letters/edisonmicrofilm285%2030.pdf"
        ref="1"
        >
 
