@@ -44,7 +44,7 @@ The letters also contain extensive discussion of social, political, and economic
 <param ve-compare curtain
        title="Edited photos from Marion Estelle Edison Oeser from 1914"
        manifest="https://edisondigital.rutgers.edu/iiif/X018A5AW1"
-       seq="5"
+       seq="6"
        fit="contain"
        curtain="true"
        >
@@ -52,7 +52,7 @@ The letters also contain extensive discussion of social, political, and economic
 <param ve-compare
        title="Edited photos from Marion Estelle Edison Oeser from 1914"
        manifest="https://edisondigital.rutgers.edu/iiif/X018A5AW1"
-       seq="6"
+       seq="5"
        fit="contain"
        curtain="true"
        >
