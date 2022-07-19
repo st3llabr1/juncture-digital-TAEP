@@ -74,10 +74,22 @@ Continued from page 1
 Among the topics mentioned are the enormous casualties of the war, Marion's fear for her own life and Oscar's, the impact of the war on her physical and mental health, the role of German women during the war, French bombing of the Alsace region, Marion's flight to Switzerland after the U.S. declaration of war, the rampant inflation and widespread suffering of the postwar years, the deterioration in Marion's own standard of living, and the French occupation of the Ruhr in 1923. [^3]
 
 <param ve-image
-       title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison"
+       title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, page 1"
        manifest="https://edisondigital.rutgers.edu/iiif/X018A5AR"
        fit="contain"
        seq="1"
+       >
+       <param ve-image
+       title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, page 2"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018A5AR"
+       fit="contain"
+       seq="2"
+       >
+       <param ve-image
+       title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, page 3"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018A5AR"
+       fit="contain"
+       seq="3"
        >
  ## Map
 
