@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#3e144f31-c77c-4a15-8087-dac9b55850ba"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Eichwald-on-the-Rhine, 19 September 2014",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://edisondigital.rutgers.edu/iiif/2/369472",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:225.09701538085938,36.878028869628906,516.6407165527344,135.29521942138672"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4d748c72-00c3-40c9-a3d0-cb828b10bd79"
   }
 ]
