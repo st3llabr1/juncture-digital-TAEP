@@ -33,7 +33,7 @@ The letters also contain extensive discussion of social, political, and economic
 
 <param ve-image
        title="Image comparison of the canopy of a dragon tree (_Dracaena draco_) with a classical Greek depiction of the dragon Ladon."
-       url="https://edisondigital.rutgers.edu/iiif/X018A5AR"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018A5AR"
        curtain="true"
        fit="contain"
        ref="1" >
