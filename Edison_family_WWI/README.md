@@ -26,8 +26,7 @@ Mary and Thomas Edison's first child was Marion Estelle, born on February 18, 18
        description="photo of Marion Estelle Edison, age 8" 
        license="public domain" 
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg/391px-Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg"
-       fit="contain"
-       ref="1">
+       >
 
 ## Marion Estelle Edison Oeser During World War I
 
