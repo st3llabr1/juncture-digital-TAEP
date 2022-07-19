@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Eichwald-on-Rhine\n19-9-1914",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://edisondigital.rutgers.edu/iiif/2/369472",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:212.44155883789062,37.9210205078125,560.0373840332031,113.70858764648438"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#1325f256-4d71-4715-9340-734cfd1fec3c"
+  }
+]
