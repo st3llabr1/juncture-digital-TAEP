@@ -68,6 +68,7 @@ Below are some examples of Edison's research experiments for the Naval Consultan
 * [Strategic Plans for Saving Cargo Boats from Submarines](https://edisondigital.rutgers.edu/folder/X128C46) [pp.165-170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=187)
 * [Collision Mats](https://edisondigital.rutgers.edu/folder/X128C54)[p.170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
 * [Taking Merchant Ships out of Mined Harbors](https://edisondigital.rutgers.edu/folder/X128C52) [pp.170-171](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
+text text text
 
 ## Edison, Submarines, and the Phonograph
 
