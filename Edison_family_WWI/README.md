@@ -106,7 +106,7 @@ She continues her letter discussing her mental and emotional state.
 Marion wrote letters to her father and Mina from a few different cities in Germany and Switzerland. 
 
 <param ve-entity eid="Q31986788">
-<param ve-map center="Q31986788" zoom="10" prefer-geojson>
+<param ve-map center="Q31986788" zoom="15" prefer-geojson>
 
        
 ## William Leslie Edison Biography
