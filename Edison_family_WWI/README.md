@@ -83,6 +83,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 William Leslie was born on October 26, 1878. Like his older brother, William boarded at St. Paul's School, Concord, New Hampshire, and the J.M. Hawkins School on Staten Island. He later studied at the Sheffield Scientific School at Yale. He married Blanche Travers. He served in the military during the Spanish-American War in 1898 and again in the First World War (though he wrote his father in 1918 in a failed attempt to get a discharge). Relations between William and his father were strained. Edison once responded to a request for money from Blanche Edison by writing, "I see no reason whatever why I should support my son. He has done me no honor and has brought the blush of shame to my cheeks many times." Like his brother he turned to farm life, breeding chickens. He died on August 10, 1937.[^4]
 
 <param ve-graphic 
+       fit="contain"
        label="William Leslie Edison" 
        description="photo of William Leslie Edison" 
        license="public domain" 
