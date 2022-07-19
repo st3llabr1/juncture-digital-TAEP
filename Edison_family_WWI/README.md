@@ -10,8 +10,8 @@
 <param title="Mina Miller Edisom" eid="Q22087338">
 <param title="First World War" eid="Q361">
 <param title="Spanish American War" eid="Q12583">
+<param title="Eichwald" eid="Q31986788">
 
-<param title="Marion Estelle Edison Oeser" eid="Q1782080">
 <param title="Marion Estelle Edison Oeser" eid="Q1782080">
 <param title="Marion Estelle Edison Oeser" eid="Q1782080">
 
@@ -105,8 +105,8 @@ She continues her letter discussing her mental and emotional state.
 
 Marion wrote letters to her father and Mina from a few different cities in Germany and Switzerland. 
 
-<param ve-entity eid="Q9251692">
-<param ve-map center="Q9251692" zoom="10" prefer-geojson>
+<param ve-entity eid="Q31986788">
+<param ve-map center="Q31986788" zoom="10" prefer-geojson>
 
        
 ## William Leslie Edison Biography
