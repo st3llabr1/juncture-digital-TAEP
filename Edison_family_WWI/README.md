@@ -123,6 +123,19 @@ William Leslie was born on October 26, 1878. Like his older brother, William boa
 
 The selected items in this folder cover the years 1912-1930. They consist primarily of letters from William L. Edison to his stepmother Mina Miller Edison. Included are references to William's business career, his involvement in World War I, and his troubled relationship with his family.[^5]
 
+<param ve-image
+       title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, pages 1-4"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018B2G"
+       fit="contain"
+       seq="0"
+       >
+ <param ve-image
+       title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, pages 1-4"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018B2G"
+       fit="contain"
+       seq="1"
+       >
+
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
