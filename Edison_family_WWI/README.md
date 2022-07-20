@@ -139,12 +139,22 @@ The selected items in this folder cover the years 1912-1930. They consist primar
        fit="contain"
        seq="1"
        >
+       
+His letters from France express fear and sadness as he reflects on the war and feeling disconnected from his family. 
+
+<param ve-image
+       title="Letter from William Leslie to Thomas and Mina Edison, from France, 1918"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018B2H"
+       fit="contain"
+       seq="0"
+       >
 
 ## Map
+William wrote letters from Wareham, Dorset, in England, concerned about the lack of communication from his parents.
+<param ve-entity eid="Q387419">
+<param ve-map center="Q387419" zoom="10" prefer-geojson>
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+He also wrote letters from France.
 
 ## Multiple viewers
 
