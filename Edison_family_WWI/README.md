@@ -156,7 +156,7 @@ William wrote letters from Wareham, Dorset, in England, concerned about the lack
 
 He also wrote letters from France.
 <param ve-entity eid="Q142">
-<param ve-map center="Q142" zoom="10" prefer-geojson>
+<param ve-map center="Q142" zoom="5" prefer-geojson>
 
 ## Multiple viewers
 
