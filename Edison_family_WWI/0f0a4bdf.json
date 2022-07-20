@@ -13,10 +13,10 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:21.429410934448242,538.2706298828125,560.5875568389893,174.95465087890625"
+        "value": "xywh=pixel:15.853160858154297,544.0575561523438,558.7072639465332,162.59368896484375"
       }
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#75416df9-eb6a-47f2-aff7-449d70ed27bf"
+    "id": "#f7ae22ba-9fd5-403c-ad00-065bc3017e19"
   }
 ]
