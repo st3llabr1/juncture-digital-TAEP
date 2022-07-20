@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "\"I don't know what to think about the matter but in the whole time I have been in England and France, I have received just TWO letters. One short one from Blanche and one from Gregg Manley. I called father for some money but never even got a reply.\"",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://edisondigital.rutgers.edu/iiif/2/372221",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:28.365957260131836,542.0205688476562,548.4085178375244,161.60003662109375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2768e9d8-1759-45a2-bfc9-da61799d125b"
+  }
+]
