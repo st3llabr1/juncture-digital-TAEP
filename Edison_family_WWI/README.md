@@ -104,8 +104,10 @@ She continues her letter discussing her mental and emotional state.
  ## Map
 
 Marion wrote letters to her father and Mina from her home, and other locations in Germany.
-<param ve-entity eid="Q2833">
 <param ve-map center="Q2833" zoom="10" prefer-geojson>
+<param ve-entity eid="Q2833">
+<param ve-entity eid="Q70">
+
 
 She also wrote letters from a hotel in Switzerland, that she visited frequently, but became more difficult to visit as the war went on. 
 <param ve-entity eid="Q70">
