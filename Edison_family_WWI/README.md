@@ -27,7 +27,7 @@ Mary and Thomas Edison's first child was Marion Estelle, born on February 18, 18
 img="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg/313px-Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg"
        >
 
-# Marion Estelle Edison Oeser During World War I
+## Marion Estelle Edison Oeser During World War I
 
 The letters also contain extensive discussion of social, political, and economic conditions in Germany during World War I and the years immediately following. Here she discusses a change made by French newspapers that show Germans as more threatening than they are. Below the first image, she writes *The original picture printed in a German paper. Sandweiler (?) soldiers looking at the women washing."* Below the second image, she writes *The same picture changed by the French. No wonder that people think the Germans are brutes.*
 
