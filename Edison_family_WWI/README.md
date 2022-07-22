@@ -1,5 +1,5 @@
 <param ve-config 
-       title="William & Marion: Reports from Europe"
+       title="Marion & William: Reports from Europe"
        author="The Edison Papers"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sargent%2C_John_Singer_%28RA%29_-_Gassed_-_Google_Art_Project.jpg/1024px-Sargent%2C_John_Singer_%28RA%29_-_Gassed_-_Google_Art_Project.jpg" 
        layout="vertical">
@@ -100,7 +100,7 @@ She continues her letter discussing her mental and emotional state.
        seq="3"
        >
        
- # Map
+ # Letters from Germany and Switzerland
 
 Marion wrote letters to her father and Mina from her home, and other locations in Germany.
 <param ve-map center="Q2833" zoom="10" prefer-geojson>
@@ -150,7 +150,7 @@ His letters from France express fear and sadness as he reflects on the war and f
        seq="0"
        >
 
-# Map
+# Letters from England and France
 William wrote letters from Wareham, Dorset, in England, concerned about the lack of communication from his parents.
 <param ve-entity eid="Q387419">
 <param ve-map center="Q387419" zoom="10" prefer-geojson>
@@ -162,7 +162,7 @@ He also wrote letters from France.
 
 # Timeline of Edison Family During World War I
 
-This timeline gives an overview of the activities and locations of all Edison's children in during the war. 
+A timeline provides an overview of the activities and locations of all Edison's children in during the war. 
 
 <param ve-knightlab-timeline source="1p7EGt1Kn139wrGo80x97DE3VkSLsCt6VQChHp9LUqeE" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
 
