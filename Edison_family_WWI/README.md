@@ -17,7 +17,7 @@
 <param title="Napoleon Bonaparte" eid="Q517" alias="Napoleon">
 
 
-## Marion Estelle Edison Oeser Biography
+# Marion Estelle Edison Oeser Biography
 
 Mary and Thomas Edison's first child was Marion Estelle, born on February 18, 1873. As a child, her nickname was "Dot," a reference to the Morse code used to send messages on telegraphs. Between her mother's death and her father's remarriage, 12-year-old Marion spent a great deal of time with her father. He even sent her out to buy his cigars. She claims to have seen Edison propose marriage to Mina Miller using Morse code. Marion boarded at Somerville Seminary in Somerville, New Jersey, and Bradford Academy in Bradford, Massachusetts. In 1895 she married Karl Oscar Oeser, a German army lieutenant, and lived in Germany even through the First World War. Although she described her marriage as "one long drawn out honeymoon," it ended in divorce in 1921. She then returned to the United States, where she died on April 16, 1965. [^2]
 
@@ -102,7 +102,7 @@ She continues her letter discussing her mental and emotional state.
        seq="3"
        >
        
- # Letters from Germany and Switzerland
+ ## Letters from Germany and Switzerland
 
 Marion wrote letters to her father and Mina from her home, and other locations in Germany.
 <param ve-map center="Q2833" zoom="10" prefer-geojson>
@@ -115,7 +115,7 @@ She also wrote letters from a hotel in Switzerland, that she visited frequently,
 <param ve-map center="Q70" zoom="10" prefer-geojson>
 
        
-## William Leslie Edison Biography
+# William Leslie Edison Biography
 
 William Leslie was born on October 26, 1878. Like his older brother, William boarded at St. Paul's School, Concord, New Hampshire, and the J.M. Hawkins School on Staten Island. He later studied at the Sheffield Scientific School at Yale. He married Blanche Travers. He served in the military during the Spanish-American War in 1898 and again in the First World War (though he wrote his father in 1918 in a failed attempt to get a discharge). Relations between William and his father were strained. Edison once responded to a request for money from Blanche Edison by writing, "I see no reason whatever why I should support my son. He has done me no honor and has brought the blush of shame to my cheeks many times." Like his brother he turned to farm life, breeding chickens. He died on August 10, 1937.[^4]
 
@@ -126,7 +126,7 @@ William Leslie was born on October 26, 1878. Like his older brother, William boa
        license="public domain" 
        url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/William_Leslie_Edison._Inscribed-__With_love,_William_L._Edison_Aug._3rd_97__(3021f629527a414ca5200d686b2dd183)edited.jpg">
 
-# William Leslie Edison During the War
+## William Leslie Edison During the War
 
 The selected items in this folder cover the years 1912-1930. They consist primarily of letters from William L. Edison to his stepmother Mina Miller Edison. Included are references to William's business career, his involvement in World War I, and his <span data-click-image-zoomto="22,135,568,411">troubled relationship </span>with his family.[^5]
 
@@ -152,7 +152,7 @@ His letters from France express fear and sadness as he reflects on the war and f
        seq="0"
        >
 
-# Letters from England and France
+## Letters from England and France
 William wrote letters from Wareham, Dorset, in England, concerned about the lack of communication from his parents.
 <param ve-entity eid="Q387419">
 <param ve-map center="Q387419" zoom="10" prefer-geojson>
