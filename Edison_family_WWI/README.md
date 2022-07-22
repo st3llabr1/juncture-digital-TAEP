@@ -14,6 +14,7 @@
 <param title="Switzerland" eid="Q70">
 <param title="Wareham, Dorset, England" eid="Q387419">
 <param title="International Red Cross and Red Crescent Movement" eid="Q7178" alias="Red Cross">
+<param title="Napoleon Bonaparte" eid="Q517" alias="Napoleon">
 
 
 ## Marion Estelle Edison Oeser Biography
