@@ -11,11 +11,9 @@
 <param title="First World War" eid="Q361">
 <param title="Spanish American War" eid="Q12583">
 <param title="Eichwald" eid="Q31986788">
+<param title="Switzerland" eid="Q70">
+<param title="Wareham, Dorset, England" eid="Q387419">
 
-<param title="Marion Estelle Edison Oeser" eid="Q1782080">
-<param title="Marion Estelle Edison Oeser" eid="Q1782080">
-
-# Introduction
 
 ## Marion Estelle Edison Oeser Biography
 
@@ -29,7 +27,7 @@ Mary and Thomas Edison's first child was Marion Estelle, born on February 18, 18
 img="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg/313px-Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg"
        >
 
-## Marion Estelle Edison Oeser During World War I
+# Marion Estelle Edison Oeser During World War I
 
 The letters also contain extensive discussion of social, political, and economic conditions in Germany during World War I and the years immediately following. Here she discusses a change made by French newspapers that show Germans as more threatening than they are. Below the first image, she writes *The original picture printed in a German paper. Sandweiler (?) soldiers looking at the women washing."* Below the second image, she writes *The same picture changed by the French. No wonder that people think the Germans are brutes.*
 <param ve-compare curtain
@@ -101,7 +99,7 @@ She continues her letter discussing her mental and emotional state.
        seq="3"
        >
        
- ## Map
+ # Map
 
 Marion wrote letters to her father and Mina from her home, and other locations in Germany.
 <param ve-map center="Q2833" zoom="10" prefer-geojson>
@@ -125,7 +123,7 @@ William Leslie was born on October 26, 1878. Like his older brother, William boa
        license="public domain" 
        url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/William_Leslie_Edison._Inscribed-__With_love,_William_L._Edison_Aug._3rd_97__(3021f629527a414ca5200d686b2dd183)edited.jpg">
 
-## William Leslie Edison During the War
+# William Leslie Edison During the War
 
 The selected items in this folder cover the years 1912-1930. They consist primarily of letters from William L. Edison to his stepmother Mina Miller Edison. Included are references to William's business career, his involvement in World War I, and his <span data-click-image-zoomto="22,135,568,411">troubled relationship </span>with his family.[^5]
 
@@ -151,7 +149,7 @@ His letters from France express fear and sadness as he reflects on the war and f
        seq="0"
        >
 
-## Map
+# Map
 William wrote letters from Wareham, Dorset, in England, concerned about the lack of communication from his parents.
 <param ve-entity eid="Q387419">
 <param ve-map center="Q387419" zoom="10" prefer-geojson>
@@ -160,13 +158,6 @@ He also wrote letters from France.
 <param ve-entity eid="Q142">
 <param ve-map center="Q142" zoom="5" prefer-geojson>
 
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # Timeline of Edison Family During World War I
 
