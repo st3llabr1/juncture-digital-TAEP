@@ -1,81 +1,52 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Edison and the Naval Consulting Board"
-       author="Erin Mustard"
-       banner="https://edison.rutgers.edu/templates/sas-red/images/rutgers/red_banner.png" 
+       title="Girl with a Pearl Earring"
+       author="JSTOR Labs team"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
- <param title="Lloyd N. Scott">
- <param title="Thomas A. Edison" eid="Q8743" aliases="Edison's">
- <param title="Josephus Daniels" eid="Q103853330" aliases="Daniels">
- <param title="Frank J. Sprague" eid="Q1343169">
- <param title="Lawrence Addicks" eid="Q23198594">
- <param title="Naval Consulting Board" eid="Q17012131">
- <param title="Sir Eric Geddes" eid="Q959198" aliases="Geddes">
- <param title="Annapolis,  Maryland" eid="Q28271" aliases="Annapolis">
- <param title="Sandy Hook, New Jersey" eid="Q1028611">
+<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
+<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
+<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
+<param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Lloyd N. Scott's Naval Consulting Board of the United States
+# Sample visual essay
 
-This official history of the Naval Consulting Board was published by the Government Printing Office in 1920. It is available online through the [Hathi Trust](http://catalog.hathitrust.org/Record/001622838_) and through [Google Books](http://books.google.com/books?id=ZMdBAAAAIAAJ&source=gbs_ViewAPI). 
-
-<param ve-image
-       manifest="https://edisondigital.rutgers.edu/iiif/X128D"
-       size="pct:100">
-
-The following sections have been published in the digital edition of the Thomas A. Edison Papers: 
-(1) front matter, including title page, table of contents, preface by Josephus Daniels, and photographs of Daniels and the Naval Consulting Board. 
-
-<param ve-graphic url="https://edison.rutgers.edu/images/edison-life/25.300.13.jpg">
-
-(2) Chapter 11, "Inventive Accomplishments of Members," which discusses Edison's wartime research projects and includes extracts from several of his letters to Secretary of the Navy Josephus Daniels, as well as his letter of November 21, 1917, to Sir Eric Geddes, head of the British Admiralty. 
-
+This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest="https://edisondigital.rutgers.edu/iiif/X128D171">
+       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-(3) Appendix: Naval Laboratory, which contains the [majority report](https://edisondigital.rutgers.edu/document/X128D225) signed by Frank J. Sprague and Lawrence Addicks recommending Annapolis as the site of the proposed laboratory. 
-<param ve-entity eid="Q28271">
-<param ve-map center="Q28271" zoom="12" prefer-geojson>
+# Basic usage
 
-The [minority report](https://edisondigital.rutgers.edu/document/X128D230) signed by Edison recommending Sandy Hook, New Jersey. 
-<param ve-entity eid="Q1028611">
-<param ve-map center="Q1028611" zoom="12" prefer-geojson>
+## Image
 
-Another appendix (not selected) contains thirty oversize maps of shipping routes along the coasts of Europe and North America, prepared by Edison and included in his letter to Geddes.
+_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
+dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
+20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       manifest="https://edisondigital.rutgers.edu/iiif/X128D167">
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
-The maps are folded into the book and were only partially scanned by Google. For an Adobe Acrobat version of the selected pages, [click here](http://edison.rutgers.edu/Scott.pdf). For the Google images via the Hathi Trust, [click here](https://babel.hathitrust.org/cgi/pt?id=uc1.$b72010&view=page&seq=343&q1=maps). 
+## Map
 
-<param ve-graphic url="http://em1043.rutgers-sci.domains/TAEP_PN_Project/Hull_to_Kristiand_map.png">
+The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
+literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+<param ve-map center="Q36600" zoom="11" prefer-geojson>
 
+## Multiple viewers
 
-The following is a list prepared by Edison's personal assistant William H. Meadowcroft, of 57 wartime research experiments, along with another list of 48 experiments. This is a similar list to the one contained in Chapter 11 of Scott's book. 
+Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
+Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://edisondigital.rutgers.edu/iiif/X128C00A">
-<param ve-image 
-       manifest="https://edisondigital.rutgers.edu/iiif/X128C00B">
-
-Below are some examples of Edison's research experiments for the Naval Consultancy Board, mentioned in Scott's book. The links on the page numbers lead to the appropriate page in the Hathi Trust version of Scott's book. Two projects—Sailing Lights for Convoys (pp.175-176) and Steamship Decoys (p.180)—do not have related documents in the Hummel Collection. The links for those projects lead only to the Scott book.
-<param ve-graphic url="https://edison.rutgers.edu/images/webimages/edisonmarine.jpg">
-
-* [Detecting Submarine by Sound from Moving Vessel](https://edisondigital.rutgers.edu/folder/X128C27) [pp.161-164](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=183)
-* [Quick Turning of Ships Sea Anchor](https://edisondigital.rutgers.edu/folder/X128C44) [pp.164-165](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=186)
-* [Strategic Plans for Saving Cargo Boats from Submarines](https://edisondigital.rutgers.edu/folder/X128C46) [pp.165-170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=187)
-* [Collision Mats](https://edisondigital.rutgers.edu/folder/X128C54)[p.170](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
-* [Taking Merchant Ships out of Mined Harbors](https://edisondigital.rutgers.edu/folder/X128C52) [pp.170-171](http://babel.hathitrust.org/cgi/pt?id=uc1.$b72010;view=1up;seq=192)
-text text text
-
-## Edison, Submarines, and the Phonograph
-
-Edison was responsible for many innovations for the war effort, including the home front. This is a recording from an Edison Diamond Disc of a dramatized submarine attack on a US cargo ship.[^1]
-
-<param ve-video id="UP1blMpzrkE" title="Edison Diamond Disc - A Submarine Attack">
-
+       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+<param ve-map center="Q36600" zoom="11">
 
 # References
-[^1]: Edison Diamond Disc https://www.youtube.com/watch?v=UP1blMpzrkE
+
+[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
