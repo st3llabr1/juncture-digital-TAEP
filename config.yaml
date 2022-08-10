@@ -19,6 +19,11 @@ nav:
   icon: fas fa-file-code
   action: load-page
   path: /Edison_family_WWI
+  
+  - label: Internship Reflection
+  icon: fas fa-file-code
+  action: load-page
+  path: /internship
 
 # If the /contact-us path is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form
