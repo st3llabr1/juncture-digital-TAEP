@@ -41,6 +41,18 @@ Completed in 2008, the corresponding collections have been uploaded to the Inter
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
+The current project is funded by the National Endowment for the Humanities and the National Archives. It has several components.  Most recently, all the reels with notebooks were uploaded to archive.org, the Internet Archive, as a digital repository. We are now in the process of transferring the notebooks from the digital edition site to a new Omeka-S subsite, which will include a virtual reading room, and integrate the Internet Archive viewer. Additionally, images from the microfilm are processed and then mapped to document identifiers before being uploaded to the digital edition. These are the major components of the project, however, there are smaller parts such as: transcription of documents, developing exhibits, finding aids, series notes, and an integrated digital edition. The overall goal is to fully publish all parts of the notebook collection, include links to each archive.org document, and to provide an accessible collection with transcriptions, reading room, and new exhibits. 
+
+## Responsibilities
+
+My tasks for the semester will focus on: metadata management, manipulation, and production; digital image processing and indexing; and finding aids. I will also take part in constructing a new exhibit, based on a currently unpublished collection of Edison’s Pocket Notebooks. For this project, I will move through the various stages of processing, publication, and metadata production to create an exhibit. 
+
+The tasks and deliverables we identified are:
+- Create motion picture catalog records in Omeka-S that point to the RUcore objects
+- Create an Archive.org collection for patent PDFs, then create catalog records in Omeka-S that point to the Archive.org object
+- Produce 23 pocket notebook PDFs (Monica will train), publish to Archive.org Notebooks collection, then add to Omeka-S notebooks sub-site
+- Produce exhibit of the new pocket notebook collection (more like a finding aid or book report, with links to related documents / searches in Digital Edition)
+- Explore use of IIIF and linked data to merge metadata, digital objects + exhibit information
 
 # Themes of the Internship
 
