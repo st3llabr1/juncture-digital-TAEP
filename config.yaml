@@ -20,7 +20,7 @@ nav:
   action: load-page
   path: /Edison_family_WWI
   
-- label: Internship Reflection
+- label: Edison & The Naval Consultancy Board
   icon: fas fa-file-code
   action: load-page
   path: /Edison_naval_consultancy_board
