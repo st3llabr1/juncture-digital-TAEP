@@ -56,8 +56,8 @@ My original tasks for the semester were to focus on: metadata management, manipu
 
 <param ve-image 
        fit="contain"
-       manifest="https://api.bl.uk/image/iiif/ark:/81055/vdc_100022545125.0x000001/full/!259,400/0/default.jpg">
-
+       manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100022544777.0x000002/manifest.json">
+       
 - Create motion picture catalog records in Omeka-S that point to the RUcore objects (delayed to FALL 2022)
 - Create an Archive.org collection for patent PDFs, then create catalog records in Omeka-S that point to the Archive.org object (delayed to FALL 2022)
 - Produce 23 pocket notebook PDFs, publish to Archive.org Notebooks collection, then add to Omeka-S notebooks sub-site (COMPLETE)
