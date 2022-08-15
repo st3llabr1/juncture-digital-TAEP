@@ -3,23 +3,22 @@
 <param ve-config 
        title="Internship Final Project"
        author="Erin Mustard"
-       banner=""
+       banner="https://upload.wikimedia.org/wikipedia/commons/b/b2/Mirror_reflection._%2836495675095%29.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q"> <!-- Rutgers University -->
-<param ve-entity eid="Q"> <!-- Documentary Editing -->
-<param ve-entity eid="Q"> <!-- Thomas A. Edison -->
+<param ve-entity eid="Q499451"> <!-- Rutgers University -->
+<param ve-entity eid="Q80083"> <!-- Humanities -->
+<param ve-entity eid="Q8743"> <!-- Thomas A. Edison -->
 <param ve-entity eid="Q478050"> <!-- National Endowment for the Humanities -->
-<param ve-entity eid="Q"> <!-- New Jersey -->
-<param ve-entity eid="Q"> <!-- New Jersey -->
-<param ve-entity eid="Q"> <!-- New Jersey -->
+<param ve-entity eid="Q12498524"> <!-- microfilm -->
+<param ve-entity eid="QQ1408"> <!-- New Jersey -->
 
 # Internship Introduction & About this Page
 
-I selected this internship because I really wanted to be a part of the history and future of this archive. The scope and breadth of this project, as well as its long history, was attractive to me because we have to contend with previous iterations of current technology. The microfilmed documents have created unique problems in creating a digital website that is accessible, and easy to find.In a lot of ways, this project is also the history of the ways archives have had to adapt and shift to make their collections more accessible. I appreciate that sense of history, and the complex work being done for the purposes of discoverability and accessibility, using the tech available over the past fifty years. I really love the complexity of this project, all its moving parts, and the way it has to contend with the ways people have tried to organize and shape this massive amount of archival material.
+I selected this internship because I really wanted to be a part of the history and future of this archive. The scope and breadth of this project, as well as its long history, was attractive to me because we have to contend with previous iterations of current technology. The microfilmed documents have created unique problems in creating a digital website that is accessible, and easy to find. In a lot of ways, this project is also the history of the ways archives have had to adapt and shift to make their collections more accessible. I appreciate that sense of history, and the complex work being done for the purposes of discoverability and accessibility, using the tech available over the past fifty years. I really love the complexity of this project, all its moving parts, and the way it has to contend with the ways people have tried to organize and shape this massive amount of archival material.
 
 <param ve-image
        manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100056075691.0x000001/manifest.json">
