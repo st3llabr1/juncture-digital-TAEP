@@ -78,6 +78,22 @@ The Edison Papers Project is an example of documentary editing, which is differe
 
 During the spring semester I thought, and wrote, a lot about neutrality in the archives, specifically the ways in which archives are not neutral; and neither are these documents of Edison’s. But what I find interesting, in my internship, is that we talk about these documents like data points, we never really discuss anything about the content of the documents. We could be talking about anything, anyone’s papers; it’s an image, or a web address, or some text. I get the feeling that, not that its bad or good, that it’s not really our business what it says, or how it might be used, or is being used, except in broad terms like “searchable” and “findable.” I say this because I can see how easily someone can become neutral about archives, how being overwhelmed with the organization and the factual, or meta-factual, the actual people, whether in the archives, or those stewarding them, become lost. In the last semester, I felt that I wanted to be more of an activist in advocating for people who had been silenced, or left out of the archives. But my experience with the Edison Papers has shown me how easy it is to be neutral, not because it isn't valuable, but because the amount of information you are dealing with is overwhelming, or basically, your job doesn't involve anything that would allow you opportunity to address it. I think that this is a good counter to my activist archivist rage of the previous semester, not that I will lose sight of the human value of archives, but to learn the dynamics of these types of disciplines and professions. Through my reading of the Scholarly Editing Journal, I was very encouraged about the discipline-wide acceptance of these important social justice issues.
 
+<param ve-compare curtain
+       title="Edited photos from Marion Estelle Edison Oeser from 1914"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018A5AW1"
+       seq="6"
+       fit="contain"
+       curtain="true"
+       >
+
+<param ve-compare
+       title="Edited photos from Marion Estelle Edison Oeser from 1914"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018A5AW1"
+       seq="5"
+       fit="contain"
+       curtain="true"
+       >
+
 ## Flexibility & Adaptation
 
 I selected this internship because I really wanted to be a part of the history and future of this archive. The scope and breadth of this project, as well as its long history, was attractive to me because we have to contend with previous iterations of current technology. The microfilmed documents have created unique problems in creating a digital website that is accessible, and easy to find. Whereas some ADE projects are in the process of scanning documents into digital formats, the Edison Papers Project, had to create digital versions of microfilm, and then edit and create new metadata. Additionally, there was another website, the legacy edition, and that was recently migrated to the new digital edition site. In a lot of ways, this project is also the history of the ways archives have had to adapt and shift to make their collections more accessible. I appreciate that sense of history, and the complex work being done for the purposes of discoverability and accessibility, using the tech available over the past fifty years. I really love the complexity of this project, all its moving parts, and the way it has to contend with the ways people have tried to organize and shape this massive amount of archival material. Because this project is so large, and still in the process of being digitized, there are lots of opportunities for learning about metadata. I'm learning about different metadata standards, and how they work with the different collections. I also have the opportunity to work on exhibits, and use IIIF functionality to create accessibility. While my focus in the program is Archives and Preservation, and this collection is technically an archive, it is run by a historian and people from the digital humanities field. 
