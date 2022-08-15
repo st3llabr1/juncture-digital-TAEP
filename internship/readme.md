@@ -19,9 +19,7 @@
 
 # Internship Introduction & About this Page
 
-The essay below reviews the work I completed for my internship, presented in the digital format I researched, prototyped, and presented to the Edison Papers Project team. This visual essay tool, called Juncture, will serve as one of the tools used for future exhibitions at the Edison Papers project. It best represents my experience, as it reflects my personal, academic, and employment interests in digital humanities; the flexibility and encouragement I recevied from my team; and the perserverance and learning I developed throughout the semester. 
-
-There are various features within the essay to explore.
+The essay below reviews the work I completed for my internship, presented in the digital format I researched, prototyped, and presented to the Edison Papers Project team. This visual essay tool, called Juncture, will serve as one of the tools used for future exhibitions at the Edison Papers project. It best represents my experience, as it reflects my personal, academic, and employment interests in digital humanities; the flexibility and encouragement I recevied from my team; and the perserverance and learning I developed throughout the semester. There are various features within the essay to explore.
 
 - Links to websites, indicated by an underline, and blue arrow
 - Pop up definitions and short summaries of organizations and people via Wikidata
