@@ -74,6 +74,7 @@ During the spring semester I thought, and wrote, a lot about neutrality in the a
        manifest="https://edisondigital.rutgers.edu/iiif/X018A5AW1"
        seq="6"
        fit="contain"
+       compare="true"
        curtain="true"
        >
 
