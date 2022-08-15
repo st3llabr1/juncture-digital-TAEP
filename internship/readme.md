@@ -3,8 +3,10 @@
 <param ve-config 
        title="Internship Final Project"
        author="Erin Mustard"
-       banner="https://upload.wikimedia.org/wikipedia/commons/0/07/Reflection_of_Arkle_-_geograph.org.uk_-_3231151.jpg" 
+       banner="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100098766601.0x000001/manifest.json" 
        layout="vertical">
+       
+       <div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="https://api.bl.uk/configuration/universalviewer/v2/ark:/81055/vdc_100098766601.0x000001" data-uri="" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="16" data-zoom="-1,-1398,17169,8937" data-rotation="0" style="width:560px; height:420px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="https://access.bl.uk/UVR7/build/uv-2.0.2/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
