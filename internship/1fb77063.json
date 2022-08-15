@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#589d618f-caab-45a9-a24a-30fa1785f9a1"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This is the first issue of the second edition of the indulgence in these types, one of which is that of the 42 line Bible. The only other copy known is at Berlin, and was issued on the 11th of April, 1455.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056902209.0x000001",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1064.4132080078125,845.0100708007812,691.8106689453125,180.33856201171875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#5979be0e-63ef-4c24-84eb-af8f0a2d3094"
   }
 ]
