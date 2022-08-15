@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The oldest available document at the British Library: an indulgence written by Pope Nicholas V in April, 1455.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://api.bl.uk/image/iiif/ark:/81055/vdc_100056902209.0x000001",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:359.0129089355469,465.11907958984375,877.8766174316406,240.057373046875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#589d618f-caab-45a9-a24a-30fa1785f9a1"
+  }
+]
