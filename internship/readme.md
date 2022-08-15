@@ -30,6 +30,7 @@ There are various features within the essay to explore.
 - The use of IIIF-enabled images to explore specific areas of an image
 
 <param ve-image 
+       fit="contain"
        manifest="https://edisondigital.rutgers.edu/iiif/X503C">
 
 # History & Mission of The Edison Papers Project
