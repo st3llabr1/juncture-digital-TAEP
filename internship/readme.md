@@ -25,7 +25,7 @@ I selected this internship because I really wanted to be a part of the history a
 
 The essay below highlights the work I completed for my internship, presented in the digital format I researched, prototyped, and presented to the Edison Papers Project team. This visual essay tool, called Juncture, will serve as one of the tools used for future exhibitions at the Edison Papers project. It best represents my experience, as it reflects my personal, academic, and employment interests in digital humanities; the flexibility and encouragement I recevied from my team; and the perserverance and learning I developed throughout the semester. There are various features within the essay to explore. *The text of the essay is composed of edited sections from the journals submitted throughout the semester.* **Please keep in mind that is an open source tool that is still in development, and you may encounter slow loading speeds and bugs throughout. Sections with bullet points have no accompanying image due to a bug in the program. Images may not necessarily relate to Thomas A. Edison.**
 
-- Links to websites, indicated by an underline, and blue arrow
+- Links to websites, indicated by an underline, and green arrow
 - Pop up definitions and short summaries of organizations and people via Wikidata
 - The use of IIIF-enabled images for zoomed in viewing, and comparison
 - The use of IIIF-enabled images for annotation
