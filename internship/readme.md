@@ -3,7 +3,7 @@
 <param ve-config 
        title="Internship Final Project"
        author="Erin Mustard"
-       banner="https://iiif.juncture-digital.org/banner/?url=http://em1043.rutgers-sci.domains/TAEP_PN_Project/Internship_page_banner.jpeg" 
+       banner="http://em1043.rutgers-sci.domains/TAEP_PN_Project/Internship_page_banner.jpeg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
