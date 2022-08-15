@@ -129,7 +129,9 @@ Through a connection from Ben, I met with a colleague of his, who he had met thr
 I think there is an implied power difference in an internship. Sometimes, an intern feels “lucky” to have landed an internship, and feels they must work above and beyond what is asked. And while I do feel lucky to have this internship, it doesn’t mean that the organization is not greatly benefiting from my unpaid and passionate labor. I don’t mean that you shouldn’t take every opportunity to learn. I think it’s a mindset, a perspective I’ve had to remind myself of recently: that my work and perspective is valuable on its own, not just in being recognized by someone else.  I haven’t felt taken advantage of at all, during this internship; I have been  encouraged at every step, and because I was in that place of confidence and security that I’ve been able to reflect on the value of my contributions to the project. And not just simply telling myself “this was good” or even more simply, “no one had a problem with this,” it was also the qualities and gradations of good. What were the strengths, what were the weaknesses, and why were they there? Is it a skill that needed honing? Or was it just a really busy week?  I believe it’s important to value yourself and your contributions, and that the company/organization is benefitting from you and your (free) work and perspective. The point of the internship is to learn, not to know. You aren’t (or shouldn’t be) expected to know how to do something, that’s why you are in an internship, and not a job. When I felt that what I was doing had to be perfect, I reminded myself that I was learning, and it was okay to have mistakes and to improve on earlier work. 
 
  <param ve-image
-           manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100098766601.0x000001/manifest.json">
+           manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100098766601.0x000001/manifest.json"
+           seq="15"
+        >
                           
 # References
 
