@@ -46,6 +46,10 @@ The mission of the [Thomas A. Edison Papers Project](https://edison.rutgers.edu/
 
 The current project is led by Dr. Paul Israel, who was part of the reorganization in the 1970s, and under his direction, 227 reels of microfilm have been published (about ⅓ of a million pages), completed in the 1980s. This includes: technical, business, and personal papers, covering the years 1847-1910; a collection of film and equipment catalogs from the early years of motion pictures. The current [Digital Edition](https://edisondigital.rutgers.edu/) has a searchable database with document images, from the original collection, and includes other material from over a hundred outside repositories, representing public and private collections. The next step in the digital edition process is to create a sub-site that focuses specifically on Edison’s notebooks, called the Notebook Collection, which can help researchers to focus on smaller subsets of this enormous collection. The current project is funded by the National Endowment for the Humanities and the National Archives. It has several components.  Most recently, all the reels with notebooks were uploaded to the [Internet Archive](https://archive.org/search.php?query=subject%3A%22EdisonNotebook%22&and[]=subject%3A%22Thomas+A.+Edison+Papers%22), as a digital repository.
 
+<param ve-image 
+       fit="contain"
+       manifest="https://edisondigital.rutgers.edu/iiif/X400A6AX">
+
 ## Responsibilities
 
 My original tasks for the semester were to focus on: metadata management, manipulation, and production; digital image processing and indexing; and finding aids. I will also take part in constructing a new exhibit, based on a currently unpublished collection of Edison’s Pocket Notebooks. For this project, I moved through the various stages of processing, publication, and metadata production to create an exhibit. While I did process the unpublished collection, I did not turn it into an exhibition, an instead made an exhibit based on Edison's son and daughter's activities during World War I. We decided that I would work on the motion picture catalogs and patent collection in the fall. 
