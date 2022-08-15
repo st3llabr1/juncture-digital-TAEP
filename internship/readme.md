@@ -130,7 +130,7 @@ I think there is an implied power difference in an internship. Sometimes, an int
 
  <param ve-image
            manifest="https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100098766601.0x000001/manifest.json"
-           seq="15"
+           seq="16"
         >
                           
 # References
