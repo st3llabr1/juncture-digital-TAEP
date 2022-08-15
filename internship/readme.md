@@ -3,7 +3,7 @@
 <param ve-config 
        title="Internship Final Project"
        author="Erin Mustard"
-       banner="http://em1043.rutgers-sci.domains/TAEP_PN_Project/Internship_page_banner.jpeg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/0/07/Reflection_of_Arkle_-_geograph.org.uk_-_3231151.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
