@@ -8,7 +8,7 @@
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
+     Wikipedia or Wikidata (https://www.wikidata.org) -->
  <param title="Lloyd N. Scott">
  <param title="Thomas A. Edison" eid="Q8743" aliases="Edison's">
  <param title="Josephus Daniels" eid="Q103853330" aliases="Daniels">
