@@ -75,4 +75,4 @@ Edison was responsible for many innovations for the war effort, including the ho
 
 
 # References
-[^1]: Edison Diamond Disc https://www.youtube.com/watch?v=UP1blMpzrkE
+[^1]: Edison Diamond Disc (https://www.youtube.com/watch?v=UP1blMpzrkE)
