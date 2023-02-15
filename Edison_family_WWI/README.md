@@ -1,7 +1,7 @@
 <param ve-config 
        title="Marion & William: Reports from Europe"
        author="The Edison Papers"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sargent%2C_John_Singer_%28RA%29_-_Gassed_-_Google_Art_Project.jpg/1024px-Sargent%2C_John_Singer_%28RA%29_-_Gassed_-_Google_Art_Project.jpg" 
+     banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sargent%2C_John_Singer_%28RA%29_-_Gassed_-_Google_Art_Project.jpg/1024px-Sargent%2C_John_Singer_%28RA%29_-_Gassed_-_Google_Art_Project.jpg" 
        layout="vertical">
 
 <param title="Thomas Alva Edison" eid="Q8743">
@@ -26,8 +26,7 @@ Mary and Thomas Edison's first child was Marion Estelle, born on February 18, 18
        label="Marion Estelle Edison" 
        description="photo of Marion Estelle Edison, age 8" 
        license="public domain" 
-img="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg/313px-Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg"
-       >
+img="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg/313px-Marion_Estelle_Edison_at_8_years_of_age._%280cfa201dca544246a59db78ad2cc618b%29.jpg">
 
 ## Marion Estelle Edison Oeser During World War I
 
