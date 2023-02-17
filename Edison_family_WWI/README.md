@@ -133,9 +133,14 @@ The selected items in this folder cover the years 1912-1930. They consist primar
        title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, pages 1-4"
        manifest="https://edisondigital.rutgers.edu/iiif/X018B2G"
        fit="contain"
-       seq="2"
+       seq="0"
        >
- 
+ <param ve-image
+       title="Letter from Marion Estelle Edison Oeser to Mina Miller Edison and Thomas Alva Edison, pages 1-4"
+       manifest="https://edisondigital.rutgers.edu/iiif/X018B2G"
+       fit="contain"
+       seq="1"
+       >
     
        
 His letters from France express fear and sadness as he reflects on the war and feeling disconnected from his family. 
