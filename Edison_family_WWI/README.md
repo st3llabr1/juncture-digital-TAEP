@@ -5,9 +5,9 @@
        layout="vertical">
 
 <param title="Thomas Alva Edison" eid="Q8743">
-<param title="Marion Estelle Edison Oeser" eid="Q1782080">
+<param title="Marion Estelle Edison Oeser" eid="Q1782080" >
 <param title="William Leslie Edison" eid="Q63823815">
-<param title="Mina Miller Edisom" eid="Q22087338">
+<param title="Mina Miller Edisom" eid="Q22087338" alias="Mina">
 <param title="First World War" eid="Q361">
 <param title="Spanish American War" eid="Q12583">
 <param title="Eichwald" eid="Q31986788">
